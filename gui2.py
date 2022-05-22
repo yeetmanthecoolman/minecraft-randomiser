@@ -1,7 +1,6 @@
 import random
 import sys
 import typing
-
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QApplication, QLabel, QCheckBox, QVBoxLayout, QPushButton, QFrame, QLineEdit, QMessageBox, \

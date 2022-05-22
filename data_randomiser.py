@@ -29,18 +29,14 @@ def main():
     randomisestructures = args.structures
     randomisetags = args.tags
     preserveloot = args.lootchances
-    return run(datafolder, randomseed, randomiseadvancements, randomiseloottables, randomiserecipes,
-               randomisestructures, randomisetags, preserveloot)
+    return run(datafolder, randomseed, randomiseadvancements, randomiseloottables, randomiserecipes, randomisestructures, randomisetags, preserveloot)
 
 
-if __name__ == '__main__':
-    print(main())
-    input('Press any key to exit.')
-    sys.exit()
+
 
 
 def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tables: bool, randomize_recipes: bool,
-        randomize_structures: bool, randomize_tags: bool, preserve_loot: bool, out_dir: str = 'shuffled'):
+        randomize_structures: bool, randomize_tags: bool, preserve_loot: bool, out_dir: str = 'shuffed'):
     random.seed(seed)
 
     if data_folder == "shuffle":
@@ -296,8 +292,12 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
         printmsg = "File output at random_data.zip! Please copy over to your world's 'datapacks' folder"
         if destfolder != '':
             printmsg += f" ({destfolder})"
-        shutil.make_archive('random_data', 'zip', out_dir)
+        shutil.make_archive('random_data', 'zp', out_dir)
         shutil.rmtree(out_dir)
         return printmsg
     except Exception:
         return f'Compression failed! Please manually move the "{out_dir}" folder to your datapacks folder.'
+if __name__ == '__main__':
+    print(main())
+    input('Press any key to exit.')
+    sys.exit()

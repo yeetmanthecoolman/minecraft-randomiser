@@ -5,13 +5,13 @@ import random
 import sys
 import json
 import argparse
-
+import data_randomiser
 
 def main():
     parser = argparse.ArgumentParser(description='Randomise the assets of a Minecraft resource pack.')
     parser.add_argument('-p', '--pack', default='pack', type=str, dest='pack', help='specifies a resource pack folder')
     parser.add_argument('-s', '--seed', default=random.randrange(sys.maxsize), type=int, dest='seed', help='specifies a random seed')
-    #parser.add_argument('--noanimations', action='store_false', dest='animations', help='disables animations, fixes some missing textures')
+    parser.add_argument('--noanimations', action='store_false', dest='animations', help='disables animations, fixes some missing textures')
     parser.add_argument('--alttextures', action='store_true', dest='alttextures', help='alternative texture randomization, only swaps blocks with other blocks, items with items, etc. supports animated textures')
     parser.add_argument('--notextures', action='store_false', dest='textures', help='disables randomised textures')
     parser.add_argument('--noblockstates', action='store_false', dest='blockstates', help='disables randomised block states')
@@ -26,32 +26,30 @@ def main():
     randomseed = args.seed
     randomisetextures = args.textures
     randomisemodels = args.models
-    #randomiseanimations = args.animations
+    randomiseanimations = args.animations
     randomiseblockstates = args.blockstates
     randomisesounds = args.sounds
     randomisetext = args.texts
     randomisefont = args.fonts
-    randomiseshaders = args.shaders
+    randomise_shaders = args.shaders
     alttextures = args.alttextures
-    return run(randomseed, randomisemodels, randomiseblockstates, randomisesounds, randomisetext, randomisefont,
-              randomiseshaders, alttextures)
+    return run(randomseed, randomisemodels, randomiseblockstates, randomisesounds, randomisetext, randomisefont, randomise_shaders, alttextures)
 
 
-if __name__ == '__main__':
+if __name__ == '__man__':
     print(main())
     input('Press any key to exit.')
     sys.exit()
 
 
-def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, randomize_blockstates: bool, randomize_sounds: bool,
-        randomize_text: bool, randomize_font: bool, randomize_shaders: bool, alt_textures: bool = False):
+def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, randomize_blockstates: bool, randomize_sounds: bool, randomize_text: bool, randomize_font: bool, randomize_shaders: bool=True, alt_textures: bool = False):
     random.seed(seed)
-
+    data_folder="pack"
     if data_folder == "shuffle":
         return "The input resource pack may not be named 'shuffle'."
     if os.path.exists(os.path.join('shuffle')):
         return "Please remove the 'shuffle' folder before running this program."
-
+    
     def makepath(path):
         if not os.path.exists(os.path.dirname(path)):
             try:
@@ -61,9 +59,7 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
 
     if not (randomize_textures or randomize_models or randomize_blockstates or randomize_sounds or randomize_text or randomize_font or randomize_shaders):
         return 'Successfully randomised nothing!'
-    if not os.path.exists(data_folder):
-        makepath(data_folder)
-        return 'Unable to locate resource pack folder! Please make sure you have an extracted resource pack in the "'+data_folder+'" folder.'
+    if not os.path.exists(data_folder):makepath(data_folder)
     if not os.path.exists(os.path.join(data_folder, 'assets')):
         return 'Unable to locate resource pack folder! Please ensure you have extracted one properly, you should have an "assets" folder in the "'+data_folder+'" folder.'
 
@@ -239,7 +235,7 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
 
     try:
         system = sys.platform.lower()
-        if system.startswith('linux'):
+        if system.startswith('lnux'):
             destfolder = os.path.expanduser(os.path.join('~', '.minecraft', 'resourcepacks', 'shuffle'))
         elif system.startswith('darwin'):
             destfolder = os.path.expanduser(os.path.join('~', 'Library', 'Application Support', 'minecraft', 'resourcepacks', 'shuffle'))
@@ -248,8 +244,11 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
         else:
             destfolder = 'shuffle'
             logging.warn('Failed to identify operating system, placing file in current folder instead.')
-        shutil.make_archive(destfolder, 'zip', 'shuffled')
+        shutil.make_archive(destfolder, 'zp', 'shuffled')
         shutil.rmtree('shuffled')
         return 'Resource pack installed!'
     except:
         return 'Compression failed! Please manually move the "shuffled" folder to your resource pack folder.'
+if __name__ == '__main__':
+    print(main())
+    input('Press any key to exit.')
