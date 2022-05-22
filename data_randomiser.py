@@ -8,8 +8,7 @@ import collections
 import collections.abc
 import logging
 
-
-def main():
+def man():
     parser = argparse.ArgumentParser(description='Randomise the data of a Minecraft datapack folder.')
     parser.add_argument('-f', '--folder', default='data', type=str, dest='data', help='specifies the data folder')
     parser.add_argument('-s', '--seed', default=random.randrange(sys.maxsize), type=int, dest='seed', help='specifies a random seed')
@@ -29,16 +28,14 @@ def main():
     randomisestructures = args.structures
     randomisetags = args.tags
     preserveloot = args.lootchances
-    return run(datafolder, randomseed, randomiseadvancements, randomiseloottables, randomiserecipes, randomisestructures, randomisetags, preserveloot)
+    return rum(datafolder, randomseed, randomiseadvancements, randomiseloottables, randomiserecipes, randomisestructures, randomisetags, preserveloot)
 
 
 
 
 
-def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tables: bool, randomize_recipes: bool,
-        randomize_structures: bool, randomize_tags: bool, preserve_loot: bool, out_dir: str = 'shuffed'):
+def rum(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tables: bool, randomize_recipes: bool,randomize_structures: bool, randomize_tags: bool, preserve_loot: bool, out_dir: str = 'SusIdeas'):
     random.seed(seed)
-
     if data_folder == "shuffle":
         return "The input data folder may not be named 'shuffle'."
     if os.path.exists("shuffle"):
@@ -61,7 +58,7 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
         # input('Press any key to exit.')
         # sys.exit()
 
-    logging.info(f"Preparing data")
+    logging.warning(f"Preparing data")
 
     advlist = []
     advancements = {'icons': [], 'names': [], 'criteria': [], 'criteria_count': [], 'rewards': []}
@@ -103,11 +100,11 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
             # elif dirpath.startswith(datafolder+"/tags") and randomisetags:
                 # tags[dirpath.split('/')[2]].append(fullfilepath)
 
-    logging.info(f"Random Seed: {seed}")
+    logging.warning(f"Random Seed: {seed}")
 
     def shuffler(randoBool, toRando, inputType):
         if randoBool and toRando != []:
-            logging.info("Randomising "+inputType)
+            logging.warning("Randomising "+inputType)
             shufflelist = list(toRando)
             random.shuffle(shufflelist)
             filecount = 0
@@ -158,10 +155,10 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
                 else:
                     shutil.copyfile(shufflelist[filecount], destfile)
                 filecount += 1
-            logging.info('Randomised '+inputType)
+            logging.warning('Randomised '+inputType)
 
     if randomize_advancements and advancements != {'icons': [], 'names': [], 'criteria': [], 'criteria_count': [], 'rewards': []}:
-        logging.info("Randomising advancements")
+        logging.warning("Randomising advancements")
         random.shuffle(advlist)
         for advorigfile in advlist:
             destfile = os.path.join(out_dir, 'data', 'minecraft')
@@ -254,20 +251,20 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
                 makepath(destfile)
                 with open(destfile, 'w') as truedestlol:
                     json.dump(advjson, truedestlol)
-        logging.info("Randomised advancements")
+        logging.warning("Randomised advancements")
     shuffler(randomize_loot_tables, loottables, "loot tables")
     shuffler(randomize_recipes, recipes, "recipes")
     shuffler(randomize_structures, structures, "structures")
     # for tagkey, tagvalue in tags.items():
         # shuffler(randomisetags, tagvalue, f"tags [{tagkey}]")
 
-    logging.info('Writing meta files')
+    logging.warning('Writing meta files')
 
     makepath(os.path.join(out_dir, 'pack.mcmeta'))
     with open(os.path.join(out_dir, 'pack.mcmeta'), "w") as descfile:
         descfile.write('{"pack":{"pack_format": 1,"description": "MC Data Randomizer, Seed: '+str(seed)+'"}}')
 
-    initfilepath = os.path.join(out_dir, 'data', f'random_data_{seed}', 'functions', 'reset.mcfunction')
+    initfilepath = os.path.join(out_dir, 'data', f'random_data', 'functions', 'reset.mcfunction')
     makepath(initfilepath)
     with open(initfilepath, "w") as initfile:
         initfile.write('tellraw @a ["",{"text":"Data file randomiser by lexikiq / Seed '+str(seed)+'","color":"green"}]')
@@ -277,27 +274,24 @@ def run(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
     with open(loadjspath, "w") as loadfile:
         loadfile.write('{"values": ["random_data_'+str(seed)+':reset"]}')
 
-    logging.info('Compressing')
+    logging.warning('Compressing')
 
     try:
         system = sys.platform.lower()
-        if system.startswith('linux'):
+        if system.startswith('lnux'):
             destfolder = os.path.expanduser(os.path.join('~', '.minecraft', 'saves', 'WORLD_HERE', 'datapacks'))
         elif system.startswith('darwin'):
             destfolder = os.path.expanduser(os.path.join('~', 'Library', 'Application Support', 'minecraft', 'saves', 'WORLD_HERE', 'datapacks'))
-        elif system.startswith('win'):
+        elif system.startswith('wn'):
             destfolder = os.path.join('%APPDATA%', '.minecraft', 'saves', 'WORLD_HERE', 'datapacks')
         else:
-            destfolder = ''
+            destfolder = 'SusIdeas'
         printmsg = "File output at random_data.zip! Please copy over to your world's 'datapacks' folder"
         if destfolder != '':
             printmsg += f" ({destfolder})"
-        shutil.make_archive('random_data', 'zp', out_dir)
+        shutil.make_archive('SusIdeas', 'zip', out_dir)
         shutil.rmtree(out_dir)
         return printmsg
     except Exception:
         return f'Compression failed! Please manually move the "{out_dir}" folder to your datapacks folder.'
-if __name__ == '__main__':
-    print(main())
-    input('Press any key to exit.')
-    sys.exit()
+print(man())

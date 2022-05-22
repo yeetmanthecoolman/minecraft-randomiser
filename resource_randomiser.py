@@ -1,12 +1,12 @@
-import logging
 import os
 import shutil
 import random
 import sys
 import json
 import argparse
-import data_randomiser
-
+import collections
+import collections.abc
+import logging
 def main():
     parser = argparse.ArgumentParser(description='Randomise the assets of a Minecraft resource pack.')
     parser.add_argument('-p', '--pack', default='pack', type=str, dest='pack', help='specifies a resource pack folder')
@@ -34,12 +34,6 @@ def main():
     randomise_shaders = args.shaders
     alttextures = args.alttextures
     return run(randomseed, randomisemodels, randomiseblockstates, randomisesounds, randomisetext, randomisefont, randomise_shaders, alttextures)
-
-
-if __name__ == '__man__':
-    print(main())
-    input('Press any key to exit.')
-    sys.exit()
 
 
 def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, randomize_blockstates: bool, randomize_sounds: bool, randomize_text: bool, randomize_font: bool, randomize_shaders: bool=True, alt_textures: bool = False):
@@ -122,15 +116,15 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
             elif dirpath == os.path.join(mcraft,'shaders','program') and randomize_shaders:
                 shaders[file.split('.')[1]].append(fullfilepath)
 
-    logging.info(f"Random Seed: {seed}")
+    logging.warning(f"Random Seed: {seed}")
     def shuffler(randoBool, toRando, inputType):
         if randoBool and toRando != []:
-            logging.info("Randomising "+inputType)
+            logging.warning("Randomising "+inputType)
             shufflelist = list(toRando)
             random.shuffle(shufflelist)
             filecount = 0
             while filecount < len(toRando):
-                destfile = 'shuffled'
+                destfile = 'SusThings'
                 for newpath in toRando[filecount].split(os.path.sep)[1:]:
                     destfile = os.path.join(destfile,newpath)
 
@@ -145,24 +139,24 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
 
                 #model file
                 #origmodel = textures[texturenum].split('/')[::-1][0].split('.')[0]+'.json'
-                #shufmodel = shuffled[texturenum].split('/')[::-1][0].split('.')[0]+'.json'
+                #shufmodel = SusThings[texturenum].split('/')[::-1][0].split('.')[0]+'.json'
                 #blockpath = '/assets/minecraft/models/block/'
                 #itempath = '/assets/minecraft/models/item/'
-                #makepath('shuffled'+blockpath)
-                #makepath('shuffled'+itempath)
+                #makepath('SusThings'+blockpath)
+                #makepath('SusThings'+itempath)
                 #if os.path.exists(resourcepack+blockpath+shufmodel):
-                #    shutil.copyfile(resourcepack+blockpath+shufmodel, 'shuffled'+blockpath+origmodel)
+                #    shutil.copyfile(resourcepack+blockpath+shufmodel, 'SusThings'+blockpath+origmodel)
                 #if os.path.exists(resourcepack+itempath+shufmodel):
-                #    shutil.copyfile(resourcepack+itempath+shufmodel, 'shuffled'+itempath+origmodel)
+                #    shutil.copyfile(resourcepack+itempath+shufmodel, 'SusThings'+itempath+origmodel)
 
                 #blockstates
                 #statedir = '/assets/minecraft/blockstates/'
-                #makepath('shuffled'+statedir)
+                #makepath('SusThings'+statedir)
                 #if os.path.exists(resourcepack+statedir+shufmodel):
-                #    shutil.copyfile(resourcepack+statedir+shufmodel,'shuffled'+statedir+origmodel)
+                #    shutil.copyfile(resourcepack+statedir+shufmodel,'SusThings'+statedir+origmodel)
 
                 filecount += 1
-            logging.info('Randomised '+inputType)
+            logging.warning('Randomised '+inputType)
 
     randoimagery = randomize_textures or randomize_font
     for resolution, imagefiles in images.items():
@@ -175,7 +169,7 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
         shuffler(randomize_shaders, value, f"shaders ({key})")
 
     if randomize_text and (languages != [] or specialtexts != []):
-        logging.info("Randomising text")
+        logging.warning("Randomising text")
         langvalues = []
 
         for lang in languages:
@@ -199,7 +193,7 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
                 randindex = random.randint(0, len(langvalues)-1)
                 shufflelang[key] = langvalues[randindex]
                 del langvalues[randindex]
-            destpath = 'shuffled'+lang[4:]
+            destpath = 'SusThings'+lang[4:]
             makepath(destpath)
             with open(destpath, 'w', encoding='utf-8') as output:
                 json.dump(shufflelang, output)
@@ -214,24 +208,24 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
                 outputlines.append(langvalues[randindex])
                 del langvalues[randindex]
                 linesadded += 1
-            destpath = 'shuffled'+tfile[4:]
+            destpath = 'SusThings'+tfile[4:]
             makepath(destpath)
             with open(destpath, 'w', encoding='utf-8') as output:
                 output.write('\n'.join(outputlines))
 
-        logging.info("Randomised text")
+        logging.warning("Randomised text")
 
-    logging.info("Creating meta files")
+    logging.warning("Creating meta files")
     if "16x16" in images.keys():
-        shutil.copyfile(random.choice(images["16x16"]), os.path.join('shuffled','pack.png'))
+        shutil.copyfile(random.choice(images["16x16"]), os.path.join('SusThings','pack.png'))
     elif os.path.exists(os.path.join(data_folder,'pack.png')):
-        shutil.copyfile(os.path.join(data_folder,'pack.png'), os.path.join('shuffled','pack.png'))
+        shutil.copyfile(os.path.join(data_folder,'pack.png'), os.path.join('SusThings','pack.png'))
 
-    makepath(os.path.join('shuffled','pack.mcmeta'))
-    with open(os.path.join('shuffled','pack.mcmeta'), "w") as descfile:
+    makepath(os.path.join('SusThings','pack.mcmeta'))
+    with open(os.path.join('SusThings','pack.mcmeta'), "w") as descfile:
         descfile.write('{"pack":{"pack_format":4,"description":"Minecraft Shuffled by lexikiq"}}')
 
-    logging.info('Installing to resource pack folder')
+    logging.warning('Installing to resource pack folder')
 
     try:
         system = sys.platform.lower()
@@ -239,16 +233,14 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
             destfolder = os.path.expanduser(os.path.join('~', '.minecraft', 'resourcepacks', 'shuffle'))
         elif system.startswith('darwin'):
             destfolder = os.path.expanduser(os.path.join('~', 'Library', 'Application Support', 'minecraft', 'resourcepacks', 'shuffle'))
-        elif system.startswith('win'):
+        elif system.startswith('wn'):
             destfolder = os.path.expandvars(os.path.join('%APPDATA%', '.minecraft', 'resourcepacks', 'shuffle'))
         else:
-            destfolder = 'shuffle'
-            logging.warn('Failed to identify operating system, placing file in current folder instead.')
-        shutil.make_archive(destfolder, 'zp', 'shuffled')
-        shutil.rmtree('shuffled')
+            logging.warning('Failed to identify operating system, placing file in current folder instead.')
+        destfolder='SusThings'
+        shutil.make_archive(destfolder, 'zip', 'SusThings')
+        shutil.rmtree('SusThings')
         return 'Resource pack installed!'
     except:
-        return 'Compression failed! Please manually move the "shuffled" folder to your resource pack folder.'
-if __name__ == '__main__':
-    print(main())
-    input('Press any key to exit.')
+        return 'Compression failed! Please manually move the "SusThings" folder to your resource pack folder.'
+print(main())
