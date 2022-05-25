@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_pressure_plate", "pattern": ["##"], "key": {"#": {"item": "minecraft:oak_planks"}}, "result": {"item": "minecraft:light_gray_stained_glass_pane", "count": 16}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_slab", "pattern": ["###"], "key": {"#": {"item": "minecraft:birch_planks"}}, "result": {"item": "minecraft:light_gray_stained_glass_pane", "count": 6}}

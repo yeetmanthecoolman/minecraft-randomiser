@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:gray_stained_glass"}}, "result": {"item": "minecraft:purpur_slab", "count": 16}}
+{"type": "minecraft:crafting_shaped", "pattern": ["X", "#", "Y"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:flint"}, "Y": {"item": "minecraft:feather"}}, "result": {"item": "minecraft:purpur_slab", "count": 4}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:cut_sandstone"}}, "result": {"item": "minecraft:sponge", "count": 6}}
+{"type": "minecraft:crafting_shaped", "group": "banner", "pattern": ["###", "###", " | "], "key": {"#": {"item": "minecraft:pink_wool"}, "|": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:sponge"}}

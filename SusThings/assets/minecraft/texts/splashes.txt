@@ -1,390 +1,391 @@
-Press a key to select a command, and again to use it.
-Vörður meiðir
-Regardez aux alentours
-Напитак повређивања
-Kopijos kopija
-სალათისფერი ჩარჩო
-Einteilung von da benutzadefiniertn Bossleistn %s is geändat wordn
-De aktuell Tied is %s
-Uzlabotie gabali: %s
-Željezna poluga
-Zelena obrnuta lijeva puna dijagonala
-Je cliënt is niet bruikbaar met Realms.
-Placa de presión de carballo
-Биом
-Príprava vyvolávača na zaklínanie
-Upload cancelled
-Puiet de mesteacăn în ghiveci
-Учитавање форсираних чанкова за димензију %s
-Kantuniera fuq ix-xellug b'bażi vjola ċar
-˙˙˙ᵷuᴉᵷuᴉԀ
-Діамант
-분홍색 지구 모양
-Veraltet
-[%s: %s]
-Silio Anifeiliaid
-Besturing...
-El juego va a dejar de funcionar en %s...
-Sværhedsgraden blev ikke ændret, den er allerede sat til %s
-Chọn một trò chơi nhỏ khác
-Could not put %s in slot %s
-Đã được mời
-סוואנה
-Hellgraue Shulkerkiste
-Ланцуговы
-Unieważniono %s postępów graczowi %s
-Pumekala
-Eiland
-Light Gray Bend Sinister
-White Inverted Chevron
-Pričakoval koordinate
-Invocador lanza hechizo
-Kocka nethernih bradavic
-Пружање висине
-Midter knap
-Мутное туманное зелье
-%s ei ole sobiv olem selle käskluse jaoks
-Холодный океан
-Тел...
-Purppura creeper-räjähde
-Приєднане стебло кавуна
-右底黄绿方
-Bloko da bruna fungo
-Izmjena nije učinjena. To je već ime ovog bossbara
-Ногоон зүүн хагас
-Cheval-zombie
-Amodol
-S'han copiat les dades del bloc del client al porta-retalls
-Kapottwerpdrank
-Loro imita a un zombi chancho
-[%s: %s]
-%1$s s'est fait bombarder par (un(e)) %2$s avec %3$s
-Kyllä
-Былғар етік
-Oranžinė kairioji pusė
-Bruine per band
-انتهت المهلة
-%s no tiene puntuaciones que mostrar
-Стейк
-Raga korallis
-Flecha com efeito
-Caral da glaça colorada virt tint
-कछुए के चार अंडे
-תוכי נוהם
-Carped Leim
-Experiences
-ஊதா மெழுகுவர்த்தி டெர்ராகோட்டா
-Nic se nezměnilo, viditelnost zprávy o smrti již má tuto hodnotu
-Nada cambió: el jugador ya estaba bloqueado
-Animales criados
-Наметало
-Ladrillos del Nether
-Sètz segur que volètz contunhar?
-Select a player to teleport to
-Tangga Akasia
-IV
--> %s <%s> %s
-Plako di netherbriko
-Chorus
-Verdediger sterft
-Ponya
-Skrytý
-Magma Cube Vdes
-%1$s was doomed to fall
-Ertrunkener gluckert
-Magmacrème
-Verbinnen mit dat Realm...
-金のリンゴ
-Pienk
-Phantom atacando
-Illusionist
-Verkar berre på utløysarmål
-หัวหน้าสีน้ำเงิน
-Khôi phục
-Ghast que morís
+გამოიყენეთ თაგვი მოსაბრუნებლად
+الاغ
+Netherrack
+Monni
+Panda nefes aldı
+Hooget Gras
+Puslespils blok
+شريط أزرق فاتح منحني يميناً للأسفل
+Dơi kêu rít lên
+Wurftrank der Schwebekraft
+Яйце виклику ендерміта
+Minecraft-netheimur
+Nada ha cambiado, este espacio de muestra ya estaba mostrando este objetivo
+Muro de tijolos de pedra
+Qaw'
+Naozaj chceš načítať tento svet?
+Trichter dursuächt
+Podad kaktuz
+Papagaj jeca
+Eraikigarria erakusten
+C418 - mellohi
+Мөс
+선택한 아이템 떨어뜨리기
+洞穴蜘蛛
+Адал явдал
+ஊதா லேசெங்கே
+Cap cian
+Esqueleto muere
+Pink Bend Sinister
+Alias sind hiär nöt erlaubt, nur tatsächlichi Gegeständ
+Sparrenhouten deur
+Beinmjøl
+დარგული ბამბუკი
+Ô vuông xanh lá cây ở góc trên
+F3 + I = Асыл йәки ҡорама мәғлүмәттәрҙе алмыштырыу буферына күсермә һалырға
+Has matat %s %s
+Valla de abedul
+Somensa de rava
+Normal
+Baìl de łegno
+Strežniški paketi sredstev
+F9
 Dead Fire Coral Fan
-ʻIli Holoholona Pāpale
-Hung Dragon Head
-Et sin %s Datepakete anjeschalt: %s
-Qaynaq paketi qovluqunu aç
-Nivala golemo doloras
-Montras fuzebli
-Uovo generatore di calamaro
-Gray Bordure Indented
-Стрела с връх
-Επιλέξτε κόσμο
-Roervis
-இடது
-Colinas de taiga con árboles gigantes
-가죽 장화
-Assinar
-Pez globo herido
-Caval
-Use thy %1$s button to open thine inventory
-கிரெயின்ஸ்டோன் பயன்படுத்தப்பட்டது
-Ҡаҙаныштары
-Estandarte laranxa
-Wäiss Flank riets
-Fire burn, and cauldron bubble
-Тёплый океан
-Lila shulkerdoboz
-Black Chief Sinister Canton
-End Crystal
-Dystans przebyty szybując
-Distance ye Climbed
-Svetlo zelena shulker skrinja
-Кожа
-Deydningarlækni
-Pared de ladrillos de piedra del End
-Flor de chorus crece
-Non
-%s trigger engedélyezve %s entitás számára
-키패드 -
-Tumma tammiluukku
-Banda sinistra magenta
-ಏನೂ ಬದಲಾಗಿಲ್ಲ. ಆ ತಂಡ ಈಗಾಗಲೇ ಅಗೋಚರ ತಂಡದ ಸದಸ್ಯರನ್ನು ನೋಡಬಹುದು
-;
-Set anew %s for %s
-Stop Realm
-Күрсәтелгән җыелманы әйберләр карарга мөмкин түгел
-Soyulmuş Huş Odunu
-Tronco de abeto
-Muinchill clì
-Braaivleis
-Tan
-Chevron roża
-Mate activity
-Grüns Bett
-Prijatý neplatný paket pohybu hráča
-Poción de fuerza
-Parmasarno
-Monsta eischoitn
-%1$s je otišao sa bang kada se borio sa %2$s
-Per Anfractum Aerium
-Dezerto
-Poción persistente de levitación
-Schliefstein jebruch
-Tuğla
-Səyyar Tacir
-정글 나무 원목
-Iliuzionistas ruošia aklumo prakeiksmą
-Weißes rechtes Untereck
-알 수 없는 ID입니다: %s
-Pieskovcový stupienok
-Конструкцията беше записано като "%s"
-跳躍次數
-Көк
-I-reset ang icon
-Chiều cao không được tập trung
-Tortelbaba sterf
-Gulur niðaripartur
-Rombo morado
-Briciau Carreg
-[%s] %s
-Kaf a Realm!
-frint und steal
-Dä agäbeni Spieler häd nid chönne iigladä werde
-blabi xinmo
-רױטער שטעמפּל
-Cantón amarillo
-Valda resurspaket
-Moˑstati
-Svijetlo siva pruga
-Distance Walked under Water
-Серверҙың адресы
-Türkizkékkel vágott
-Rijeka
-Brauner Schräglinksbalken
-Llwytho tir...
-Pale Grey
-Hellgraus Kreiz
-Book pakken
-Lava-Ozean
-All Effekte woode vun %s Zille fottjenomme
-Filo
-Hang
-Visión en 3D
-Grand gardien
-Símbolo rosa
-Datumpako “%s” jam estas ebligita!
-Espaço 5 da barra rápida
-היית לא פעיל במשך זמן רב מדי!
-Чиләк
-Grå venstrestolpe
-Lijevi klik
-%1$s sakatu jaisteko
-Filafloso
-Jaje kornjače se otvara
-Чорний цемент
-Gracz %1$s spadł z wysokiego miejsca
-Има %s бана:
-%1$s ha muerto entre espinas en un arbusto de bayas dulces
-Grantømmer
-Bend Pinc
-Bazë e prerë e Kuqe
-nuq 'oH jabwI'?
-Supersalto
-Per Anfractum Conversum Cyaneum
-Zamszona brukowa płyta
-Poción arrojadiza rara
-Blocks o' Tunes
-Razhroščevalni način
-Зачувај
-Fàcia de Creeper
-Jraue Schrächbalke
-%1$s wilde niet in de wereld van %2$s wonen
-Broun cat protecshun
-Comparador de redstone
-Forma desconocida
-Brathadóir Sholas an Lae
-蓝色爬行者盾徽
-هیچ دنیای تک نفره ای یافت نشد!
-Draakon uriseb
-Seedang
-Temps restant
-Залхаагч хашхирах
-Kleine bal
-Ganzzuel däerf net méi kleng wei %s sinn, %s ass ze kleng
-Steenheel
-Цијан горња половина
-Memuat turun
-Geel bed
+Skapelseägg för enderman
+Πήρε πολλή ώρα να συνδεθείτε
+Gráur fýrakantur uppi til vinstru
+Taevas on piiriks
+Mga Lawa ng Kumukulong Putik
+Lövhə mesajını düzəlt
+位於 y 和 y + dy 之間的實體
+Dolfijn valt aan
+Allvarlig hängivenhet
+Омагьосването %s беше добавено към предмета на %s
+Vibracións de tridente
+(מקם כאן את קבצי ערכת המשאבים)
+10th Life
+Трябва да въведете име!
+आग प्रतिरोध की औषधि
+Birka ligno
+Turkwaas glazuere terrakotta
+إبداع
+Met Enwonner jemaggelt
+Vyrob lepší krompáč
+Zaśnieżona plaża
+Lodhje
+เครื่องรางคลาดแคล้ว
+Ver. num.
+Die volle katalogus
+La lista blanca ya estaba desactivada
+Brik from hell
+An objective already exists by that name
+Posóid Righin Leamh
+Världsmallar
+რკინის ხანა
+Iluzionist rănit
+Шомартылган диорит плитәсе
+Konj galopira
+Azalik gabeko urki enborra
+超高速！！！
+Од хэлбэртэй
+Raw Chicken
+Bild
+Chest
+Liste erwartet, ‚%s‘ erhalten
+Gul blomma
+Onendlechkeet
+L'objectif "%s" du tableau de score est inconnu
+No
+Adharc-Choiréal
+Wjyrzchniŏ granica skali
+Bloc col·locat
+Ponn Kestevyn Loos
+Wstōń ze lyża
+Näppäimet
+Opgepotte kaktus
+Sýrena
+Weiße Glasscheibe
+紅色鬱金香
+Cairt Mianaigh le Crannóg
+Legg til server
+%2$s :ɐʇɐp ʎʇᴉʇuǝ ᵷuᴉʍoꞁꞁoɟ ǝɥʇ sɐɥ %1$s
+Kocka spremenjena na %s, %s, %s
+Wọle ni...
+هنگامی که روی بدن است:
+Barra cian
+Schimbă-ți punctul de reînviere
+קוסטאָמיזירן
+ゲームルール %s は %s に設定されています
+Esqueleto muere
+Jasnoszadŏ spodniŏ połōwka
+Streckn grennt
+Creeper skades
+Er is/zijn %s doel(en): %s
+Kase
+Cancelado
+Obsidiana
+Bạn có muốn có realm của riêng mình không?
+月
+Ciao, mondo!
+Orla dentada castanha
+Rosa betongpulver
+Siaan Vlag
+Oranges linkes Obereck
+מיטה ירוקה
+Non se modificou nada, o xogador non é administrador
+Locked realm
+ಮೂರನೇ ದಿನ
+rarHa'
+(Яшергән)
+Snowy Taiga Hills
+Jarnhakkande galen
+Ou generator de mare străjer
+געלער רעכטער פֿלאַנק
+Nobenih sprememb, razdalja za opozorilo za mejo sveta je že takšna
+Un jugador
+左Ctrl
+Kemajuan
+Optimoi maailma
+Падводнік
+Nada cambió: el jugador ya era operador
+Càraich 's cuir ainm air
+У буфер абмену скапіяваны серверныя звесткі блоку
+Menyilang Kanan Sian
+Dietă echilibrată
+Десна ногавица
+Modified Badlands Plateau
+Hana Hou Kauoha Palaka
+Links fienroot gespalten
+लौह हार्स कवच
+Гацуур модон дүнз
+예기치 않은 후행 데이터가 있습니다
+oɹǝz ʎq ǝpᴉʌᴉp ʇouuɐƆ
+Määratud piirkonnas on liiga palju plokke (maksimum %s, määratud %s)
+Cliente incompatible!
+%s %s
+Modo supervivencia
+Merah
+Fialová pata
+Йәйәүсе эшләй
+Magenta omgekeerde keper
+Jarak Naik Sayap Kumbang
+Blue Bordure Indented
+sedlo sejmuto
+Ակնթարթային Վնաս
+Fadenflosser
+Planeta magenta
+שחקן נפגע
+Spawner
+Muzika & Tingëllon...
+Текућа лава
+Small Ball
+Num 4
+Қара бағаналар
+ɯoʇsnƆ
+Sprøjtende pil
+kitybli
+Картина
+Ресурс тоҡсайҙары яңынан йөкләнгәндәр
+<%s> %s
+Wud'd Muntanes
+Gray Fess
+Lataa kuitenkin
+Uničevalec zarjovi
+Nada mudou, a barreira do mundo já é desse tamanho
+.
+სოფლელი უარს ამბობს
+"%s" на %s
+Shulker verkjer
+Dáileoirí Cuardaithe
+3D anaglífico
+Skyldpodbaby giet dea
+Y Gwagle
+Блакитна вертикальна смуга справа
+潜影贝：传送
+Tosaigh próifíliú dífhabhtúcháin
+Po želji lahko svet preneseš v enoigralski način.
+Drache faucht
+Anishinaabewaki
+Redstonový vodič
+Popravak i raspršivanje
+Sau-Spawn-Ei
+Utskytar mistokst
+Orihinal
+Ойыншыға лезде өту
+Ny foshil arragh kianglaghyn jeh sleih gyn enney ayd orroo!
+سفید Pale Sinister
+מתחיל מיני-משחק...
+پایه خاکستری سبک
+Estatistica
+Helesinise ruuduga all vasakus nurgas
+Genopliv Ender-Dragen
+Il y a %s objectif(s) : %s
+penka sa'orkurfa
+Proxectil de Shulker
+Pouezit war "@e" evit bukañ an holl elfennoù
+Stwórz realm
+Alga seca
+Ġebel infestat
+Roghanna an domhain
+請嘗試重新開啟 Minecraft
+Байқап көру!
+Tekna hald
+Lichtgroene wol
+Feuerzeug
++%s %s
+Rebane nuusib
+Gepolijst graniet
+Some airy devil hovers
+Áika galba
+Succes
+Purpura shildo
+Hoarnkoraalwaaier oan muorre
+Prismarinscherv
+交换手中的物品
+قطعه قلوه سنگي
+Gule toppigge
+மெஜந்தா படுக்கை
+"%s" är ett ogiltigt flyttal
+Coguvaca ordenhada de um modo suspeito
+Lomhaság bájitala
+Building terrain
+relative Position x
+%1$s被%2$s用火球烧死了
+Wird gespeichert in:
+Kastbart nattsynsbrygg
+Onbekende betovering: %s
+Дунд
+ท่อนไม้เบิร์ช
+Көгілдір ақық Андреев кіресі
+ಅಡ್ಡಬಿಲ್ಲು ಆರೋಪಗಳನ್ನು
+V
+שנײבאָל
+Срећа
+Ovdje nisu dozvoljeni tagovi, samo pravi blokovi
+Sand
+Graddiant Gwyrdd
+Kayu Cemara yang Dikupas Kulit
+Açık
+Кәрәккәндә, яңы реалмға донъяны һайлағыҙ
+Jogadores
+ʇɟɐɹɔǝuᴉW
+Донъяны көйләү
+Cantò virt in el baseu àl drept
+Әфсенләүче сихерли
+Clivus basis prasinus
+Выхад...
+Külaelanik nõustub
+Krêft fan de see
+Udførte %s kommandoer fra funktion '%s'
+Tidak Ada Hadnya
+Campfire crackles
+Horlosie
+Darstelligsart vo Ziel %s wurd gändert
+Mach ä besseri Spitzhackä
+Set the world border warning distance to %s blocks
+Бервяно з трапічнай драўніны
+Карычневы мур
+Redstone Block
+AIR
+%s төркемнең катнашучылары инде күренми торган берләшмәдәшләрне күрә алалар
+%s lápis-lazúlis
+Loikkaamisen taikajuoma
+Narancssárgával harántolt
+Panda niesd
+Cuốc vàng
+Získaj dračie vajce
+%s tiene %s puntos de experiencia
+Pumili ng ibang maliit na laro?
+Hilaw na Bakalaw
+Поступившие приглашения
+Qırmızı Sol Yarı
+Papagaio fala
+IV
+メギス
+Fantom flaksar
+Біла верхня половина
+額縁の中のアイテムが回される
+Coinne le '%s'
+Որթատունկ
+Regs klik vir meer
+أصيص الزهرة الصفراء السماوية
+Tir d'arbalète
+زهرة التوليب الوردي
+(Mittlbäckla då neidoa)
+Hellgrün schrägrechts geteilt
+Baschdla
+DESA
+Disse positioon is nich laded
+Lichtgroene basis
+Boggart cries out
+Қоныр бағаналар
+Macska meghal
+Read mitsele fjild
+Akasiakymplant
+Baguhin ang mundo
+Thro-lotadh %1$s le %2$s
+Делфин яде
+Mėlyna viršutinė dešinioji pusė
+目前追蹤了 %s 個實體：%s
+Arbaletle ateş et
+Trichter
+Papagaio imitando uma traça
+Бела база злокобни кантон
+Bibliotekar jobber
+Død ildkorallblokk
+Luuranko kuolee
+Technesche Fortschrëtt
+Ra ijọba kan!
+Konwertirar wärd
+xoᗺ ɹǝʞꞁnɥS uǝǝɹ⅁
+Әҙер
+Down
+Giele wol
+Créa
+Da li želite da otvorite ovu vezu ili da je kopirate u vašu privremenu memoriju?
+Tulip Putih
+பாயும் நீர்
+Wolf
+Mipmap Stufen
+Cerrar
+Bawse
+V
+Gjorde %s inte längre till en serveroperatör
+%s Bloic Lapis Lazuli
+Орхигдсон уурхай
+Suporto par armadura
+Jy mag nie nou rus nie, die bed is te vêr weg
+Pogostost jezer lave
+سپر صورتی
+Drveni mač
+Base morada
+Výskoků
+Жолта шулкер кутија
+أرنب القفزات
+זוימען (אָפּציאָנאַל)
+Llama meludah
+lo djacu pu se lebna fi lo patxu
+สวัสดีชาวโลก!
+Sjugurka
+Orman Ağacı Kapı
+کره آبی آسمانی
+Смарагд
+= (сан. перне.)
+Blazespawnaai
+Prístup z tvojej IP adresy bol zakázaný.
+Dôvod: %s
+Сино-зелено ѕидано поле
+Miscelánea
+Dovşan öldü
+世界樣板
+Velocidad
+Boog
+גולגולת סגולה
+Título del libro:
+Lilowŏ lewŏ połōwka
+Dunkls Oachenklappdierl
+Refuerzos zombi
+Paso helado
+Tallado marrón invertido
+Sautor gris
 Ghast dispara
-Cilalı Andezit Merdiven
-טייגה מושלגת
-Calculando chunks...
-saavuta tasemeid, tervis ja nälgimine
-Spieler
-Mur Kalldrëmi Me Myshk
-Saadagtig
-Armbrøst lades
-Томанлы левитация эсемлеге
-;
-+%s%% %s
-Integer must not be less than %s, found %s
-Stenen knop
-Gwagle Adeileddol
-Diepte Ruisexponent
-Aer Folúis
-Escaleiras de abeto
-Afstand kan niet negatief zijn
-Декоративные блоки
-Lingering Potion of Water Breathing
-Noho ora
-Definições do rato
-Šířka
-Players with gamemode
-Կանաչ Մահճակալ
-Flaggmynstur
-F3
-Groen Glaspaneel
-Ofen benutzt
-Losange d'argent
-Witte schildvoet
-भूरा
-Layong Baboy
-Hongo marrón
-Hochlodelimit erreicht
-Connexion Dirècta
-चैट संदेश नहीं भेज सका
-Yellow Bordure
-Alçapão fechado
-Lupus fremit
-Shulkerskot brestur
-निम्बू रंगीन कांच
-Shigjeta e Mjeshtrit të Breshkës
-Activóse'l narrador
-Mechero
-Pers Dwarsstreep
-מויזנשפּירעוודיקקײַט
-Đường ray kích hoạt
-Orange övergång ovanifrån
-Бяло долно пресичане
-%1$s estis premplatigita per falanta amboso batalante %2$s-n
-Oeuf spawneur d'ours polaire
-Spieler
-\
-Бу дөньяның оптимальләштерү процедурасы барлык аның мәгълүматләрен иң яңа форматта саклап кала. Дөньяның зурлыгына карап, оптимальләштерү процедурасы күп вакыт алырга мөмкин. Тәмамлангач, уенның тизлеге артачак, ләкин ул уенның элеккеге версиялары белән туры килмиячәк. Сез оптимальләштерү процедурасын башларга телисезме?
-Kompass
-Kunvokar fera golemo por defensar vilajo
-Türkiser Creeper
-Viesca de bidul
-Seletor não permitido
-Dette vil slette dit Realms nuværende verden!
-Orange
-Blau cel
-Cijan gornji desni kanton
-進食
-Синя шулкърова кутия
-Çarpayınız məhv edilmiş və ya tıxalı
-F6
-Swarte dwersbalke
-Ажыратқан
-Peroked o chuchuiñ
-Sparaläge - skriv till fil
-לוגם
-Stirklavoj...
-Berje
-Witherskelettenspawnei
-Vinstri ermi
-Laama mökitab vihaselt
-Dollágáddi
-Tha %2$s buill san sgioba %1$s: %3$s
-Antal hopp
-%s се приклучи на играта
-Tooltip avansadi: in mostra
-Showing craftable
-Kiej na gowie:
-Res ha canviat, la visualització dels missatges de mort ja tenia eixe valor
-‚%s‘ es ze jroß!
-Lichgreune wol
-Dib
-Caixa de shulker marró
-%1$s fiel aus der Welt
-Spojiť
-주운 횟수
-Modified sailor data of %s
-Red Kite
-F3
-manku viska
-Interacties met weefgetouw
-Blåsfisk sprattlar
-屍殼呻吟聲
-Staighre Andéisíte Snasta
-¡Haz que se reproduzcan dos animales de cada tipo!
-Försvaga och bota sedan en zombiebybo
-Se copiaron los datos de la entidad al portapapeles (cliente)
-Nothing changed. The specified properties already have these values
-Déronse %s nivéis de experiencia a %s
-Orla roxa
-Φαράγγια
-Vil du halda fram?
-Lincoln Cross
-אומברױבאַרער טרונק
-Andesitmauer
-Game over!
-Ваартай хөх хонгорзул
-Hiện không có mục tiêu nào
-Tha armachd eich 'ga cur air
-Server de Minecraft
-Vidru tintao n'azul claro
-自チームに非表示
-Templates
-Pantalones de cota de malla
-מפת חוקר אוקיינוס
-Lichtgroene omgekeerde keper
-Lähtesta
-ქმნილებები ქულებით
-Estandard planeta
-Corner
-渔夫
-Caps Lock
-Planeta gris argia
-%1$s ġie maqtul hu u jipprova jweġġa' lil %2$s
-Herlaai hulpbronpakkette
-Caput Dextrae Cantonis Aurantii
-Lag treplanker
-Arcilla
-Plava maćuhica
-Дуготрајни напитак тровања
-Llábana de carbayu escuru
+Partes de armadura limpiadas
+Vigelette Eer
+Ми мәрҗән җыелмасы
+labybla stakrterakota
+Rutto
+Flowing Lava
+Automatisch opslaan is nu ingeschakeld
+热带草原
+மொழி...
+F10

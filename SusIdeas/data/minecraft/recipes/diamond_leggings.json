@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:nether_quartz_ore"}, "result": "minecraft:diamond_leggings", "experience": 0.2, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "###", "###"], "key": {"#": {"item": "minecraft:packed_ice"}}, "result": {"item": "minecraft:diamond_leggings"}}

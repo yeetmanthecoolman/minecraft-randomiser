@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:mossy_stone_bricks"}, "result": "minecraft:orange_dye", "count": 1}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:dried_kelp_block"}], "result": {"item": "minecraft:orange_dye", "count": 9}}

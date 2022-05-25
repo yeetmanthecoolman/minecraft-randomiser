@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": [" # ", "#X#", " # "], "key": {"#": {"item": "minecraft:glowstone_dust"}, "X": {"item": "minecraft:arrow"}}, "result": {"item": "minecraft:bookshelf", "count": 2}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_diorite"}, "result": "minecraft:bookshelf", "count": 1}

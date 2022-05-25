@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["XX", " #", " #"], "key": {"#": {"item": "minecraft:stick"}, "X": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:white_stained_glass_pane", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["@@", "##"], "key": {"#": {"tag": "minecraft:planks"}, "@": {"item": "minecraft:string"}}, "result": {"item": "minecraft:white_stained_glass_pane", "count": 8}}

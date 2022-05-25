@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "light_gray_dye", "ingredients": [{"item": "minecraft:oxeye_daisy"}], "result": {"item": "minecraft:iron_nugget", "count": 9}}
+{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["##"], "key": {"#": {"item": "minecraft:yellow_wool"}}, "result": {"item": "minecraft:iron_nugget", "count": 3}}

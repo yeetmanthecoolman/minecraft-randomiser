@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:sugar_cane"}}, "result": {"item": "minecraft:light_gray_bed", "count": 3}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:diamond_ore"}, "result": "minecraft:light_gray_bed", "experience": 1.0, "cookingtime": 200}

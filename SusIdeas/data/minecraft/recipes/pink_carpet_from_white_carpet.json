@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:gold_ore"}, "result": "minecraft:pink_carpet", "experience": 1.0, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["XXX", "X X"], "key": {"X": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:pink_carpet", "count": 8}}

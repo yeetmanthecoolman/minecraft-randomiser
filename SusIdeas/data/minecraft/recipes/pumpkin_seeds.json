@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["NN", "NN"], "key": {"N": {"item": "minecraft:nether_brick"}}, "result": {"item": "minecraft:pumpkin_seeds", "count": 4}}
+{"type": "minecraft:crafting_shaped", "group": "stained_terracotta", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:terracotta"}, "X": {"item": "minecraft:gray_dye"}}, "result": {"item": "minecraft:pumpkin_seeds", "count": 8}}

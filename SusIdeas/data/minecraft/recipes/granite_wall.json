@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "magenta_dye", "ingredients": [{"item": "minecraft:blue_dye"}, {"item": "minecraft:red_dye"}, {"item": "minecraft:red_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:granite_wall", "count": 4}}
+{"type": "minecraft:crafting_shaped", "pattern": ["FF", "FF"], "key": {"F": {"item": "minecraft:popped_chorus_fruit"}}, "result": {"item": "minecraft:granite_wall", "count": 4}}

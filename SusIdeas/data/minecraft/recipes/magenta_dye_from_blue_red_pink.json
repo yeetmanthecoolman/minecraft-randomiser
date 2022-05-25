@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:dried_kelp_block"}], "result": {"item": "minecraft:magenta_dye", "count": 9}}
+{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:chicken"}, "result": "minecraft:magenta_dye", "experience": 0.35, "cookingtime": 600}

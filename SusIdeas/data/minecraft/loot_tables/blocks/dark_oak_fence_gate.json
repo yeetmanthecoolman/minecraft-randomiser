@@ -1,1 +1,1 @@
-{"type": "minecraft:entity", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:green_wool"}]}, {"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "minecraft:entities/sheep"}]}]}
+{"type": "minecraft:fishing", "pools": [{"rolls": 1.0, "entries": [{"type": "minecraft:item", "weight": 60, "name": "minecraft:cod"}, {"type": "minecraft:item", "weight": 25, "name": "minecraft:salmon"}, {"type": "minecraft:item", "weight": 2, "name": "minecraft:tropical_fish"}, {"type": "minecraft:item", "weight": 13, "name": "minecraft:pufferfish"}]}]}

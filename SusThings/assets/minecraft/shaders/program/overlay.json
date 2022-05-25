@@ -1,48 +1,25 @@
 {
-    "targets": [
-        "swap",
-        "final"
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "rotscale",
+    "fragment": "spiderclip",
+    "attributes": [ "Position" ],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "BlurSampler" }
     ],
-    "passes": [
-        {
-            "name": "entity_outline",
-            "intarget": "final",
-            "outtarget": "swap"
-        },
-        {
-            "name": "blur",
-            "intarget": "swap",
-            "outtarget": "final",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 1.0, 0.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 2.0 ]
-                }
-            ]
-        },
-        {
-            "name": "blur",
-            "intarget": "final",
-            "outtarget": "swap",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 0.0, 1.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 2.0 ]
-                }
-            ]
-        },
-        {
-            "name": "blit",
-            "intarget": "swap",
-            "outtarget": "final"
-        }
+    "uniforms": [
+        { "name": "ProjMat",    "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "InSize",     "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "InScale",    "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "InOffset",   "type": "float",     "count": 2,  "values": [ 0.0, 0.0 ] },
+        { "name": "InRotation", "type": "float",     "count": 1,  "values": [ 0.0 ] },
+        { "name": "Time",       "type": "float",     "count": 1,  "values": [ 0.0 ] },
+        { "name": "Scissor",    "type": "float",     "count": 4,  "values": [ 0.0, 0.0, 1.0, 1.0 ] },
+        { "name": "Vignette",   "type": "float",     "count": 4,  "values": [ 0.0, 0.0, 1.0, 1.0 ] },
+        { "name": "OutSize",    "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] }
     ]
 }

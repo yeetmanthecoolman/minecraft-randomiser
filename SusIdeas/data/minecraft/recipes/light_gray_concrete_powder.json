@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["@@", "##", "##"], "key": {"#": {"tag": "minecraft:planks"}, "@": {"item": "minecraft:paper"}}, "result": {"item": "minecraft:light_gray_concrete_powder", "count": 8}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:cut_sandstone"}, "result": "minecraft:light_gray_concrete_powder", "count": 2}

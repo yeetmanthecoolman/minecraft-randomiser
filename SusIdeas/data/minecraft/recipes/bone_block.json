@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:cyan_dye"}], "result": {"item": "minecraft:bone_block"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["X", "X", "#"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:diamond"}}, "result": {"item": "minecraft:bone_block"}}

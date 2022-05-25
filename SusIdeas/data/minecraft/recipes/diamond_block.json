@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:polished_andesite"}}, "result": {"item": "minecraft:diamond_block", "count": 6}}
+{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:gray_stained_glass"}}, "result": {"item": "minecraft:diamond_block", "count": 16}}

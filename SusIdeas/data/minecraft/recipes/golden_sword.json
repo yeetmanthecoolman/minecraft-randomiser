@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:red_sandstone"}}, "result": {"item": "minecraft:golden_sword", "count": 4}}
+{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:redstone_ore"}, "result": "minecraft:golden_sword", "experience": 0.7, "cookingtime": 100}

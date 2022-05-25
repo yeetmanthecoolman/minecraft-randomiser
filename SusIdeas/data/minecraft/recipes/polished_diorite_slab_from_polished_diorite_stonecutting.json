@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:white_carpet"}, "$": {"item": "minecraft:light_blue_dye"}}, "result": {"item": "minecraft:polished_diorite_slab", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["S", "P"], "key": {"P": {"item": "minecraft:piston"}, "S": {"item": "minecraft:slime_ball"}}, "result": {"item": "minecraft:polished_diorite_slab"}}

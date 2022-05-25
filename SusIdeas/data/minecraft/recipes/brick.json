@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["SS", "SS"], "key": {"S": {"item": "minecraft:diorite"}}, "result": {"item": "minecraft:brick", "count": 4}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:quartz"}}, "result": {"item": "minecraft:brick"}}

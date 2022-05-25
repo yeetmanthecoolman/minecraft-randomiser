@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["GGG", "QQQ", "WWW"], "key": {"Q": {"item": "minecraft:quartz"}, "G": {"item": "minecraft:glass"}, "W": {"tag": "minecraft:wooden_slabs"}}, "result": {"item": "minecraft:chiseled_quartz_block"}}
+{"type": "minecraft:crafting_shapeless", "group": "bonemeal", "ingredients": [{"item": "minecraft:bone_block"}], "result": {"item": "minecraft:chiseled_quartz_block", "count": 9}}

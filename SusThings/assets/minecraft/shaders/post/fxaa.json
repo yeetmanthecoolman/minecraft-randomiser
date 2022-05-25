@@ -4,8 +4,8 @@
         "srcrgb": "one",
         "dstrgb": "zero"
     },
-    "vertex": "downscale",
-    "fragment": "downscale",
+    "vertex": "sobel",
+    "fragment": "ntsc_encode",
     "attributes": [ "Position" ],
     "samplers": [
         { "name": "DiffuseSampler" }

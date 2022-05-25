@@ -4,7 +4,7 @@
     ],
     "passes": [
         {
-            "name": "outline_soft",
+            "name": "sobel",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },

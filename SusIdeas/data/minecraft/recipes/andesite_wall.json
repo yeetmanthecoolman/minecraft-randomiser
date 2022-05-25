@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#&#", "~$~", " # "], "key": {"~": {"item": "minecraft:string"}, "#": {"item": "minecraft:stick"}, "&": {"item": "minecraft:iron_ingot"}, "$": {"item": "minecraft:tripwire_hook"}}, "result": {"item": "minecraft:andesite_wall", "count": 6}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:cobblestone"}, "result": "minecraft:andesite_wall", "count": 1}

@@ -1,1 +1,1 @@
-{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:rabbit"}, "result": "minecraft:red_nether_brick_wall", "experience": 0.35, "cookingtime": 100}
+{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:pink_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:red_nether_brick_wall", "count": 8}}

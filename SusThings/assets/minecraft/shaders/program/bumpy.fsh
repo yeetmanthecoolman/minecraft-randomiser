@@ -5,25 +5,32 @@ uniform sampler2D DiffuseSampler;
 varying vec2 texCoord;
 varying vec2 oneTexel;
 
-void main(){
-    vec4 c  = texture2D (DiffuseSampler, texCoord);
-    vec4 u1 = texture2D (DiffuseSampler, texCoord + vec2 (              0.0, -oneTexel.y      ));
-    vec4 u2 = texture2D (DiffuseSampler, texCoord + vec2 (              0.0, -oneTexel.y * 2.0));
-    vec4 d1 = texture2D (DiffuseSampler, texCoord + vec2 (              0.0,  oneTexel.y      ));
-    vec4 d2 = texture2D (DiffuseSampler, texCoord + vec2 (              0.0,  oneTexel.y * 2.0));
-    vec4 l1 = texture2D (DiffuseSampler, texCoord + vec2 (-oneTexel.x,                     0.0));
-    vec4 l2 = texture2D (DiffuseSampler, texCoord + vec2 (-oneTexel.x * 2.0,               0.0));
-    vec4 r1 = texture2D (DiffuseSampler, texCoord + vec2 ( oneTexel.x,                     0.0));
-    vec4 r2 = texture2D (DiffuseSampler, texCoord + vec2 ( oneTexel.x * 2.0,               0.0));
+uniform vec2 InSize;
 
-    vec4 v1 = mix (c, mix (l1, l2, 0.667), 0.75);
-    vec4 v2 = mix (c, mix (r1, r2, 0.667), 0.75);
-    vec4 v3 = mix (c, mix (u1, u2, 0.667), 0.75);
-    vec4 v4 = mix (c, mix (d1, d2, 0.667), 0.75);
+uniform vec3 Gray;
+uniform vec3 RedMatrix;
+uniform vec3 GreenMatrix;
+uniform vec3 BlueMatrix;
+uniform vec3 Offset;
+uniform vec3 ColorScale;
+uniform float Saturation;
 
-    vec4 v5 = mix (v1, v2, 0.5);
-    vec4 v6 = mix (v3, v4, 0.5);
+void main() {
+    vec4 InTexel = texture2D(DiffuseSampler, texCoord);
 
-    vec4 color = mix (v5, v6, 0.5);
-    gl_FragColor = vec4(color.rgb, 1.0);
+    // Color Matrix
+    float RedValue = dot(InTexel.rgb, RedMatrix);
+    float GreenValue = dot(InTexel.rgb, GreenMatrix);
+    float BlueValue = dot(InTexel.rgb, BlueMatrix);
+    vec3 OutColor = vec3(RedValue, GreenValue, BlueValue);
+
+    // Offset & Scale
+    OutColor = (OutColor * ColorScale) + Offset;
+
+    // Saturation
+    float Luma = dot(OutColor, Gray);
+    vec3 Chroma = OutColor - Luma;
+    OutColor = (Chroma * Saturation) + Luma;
+
+    gl_FragColor = vec4(OutColor, 1.0);
 }

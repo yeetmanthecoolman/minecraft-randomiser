@@ -4,12 +4,9 @@
     ],
     "passes": [
         {
-            "name": "color_convolve",
+            "name": "bumpy",
             "intarget": "minecraft:main",
-            "outtarget": "swap",
-            "uniforms": [
-                { "name": "Saturation", "values": [ 1.4 ] }
-            ]
+            "outtarget": "swap"
         },
         {
             "name": "blit",

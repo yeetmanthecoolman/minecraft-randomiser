@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:glass_pane"}, "$": {"item": "minecraft:magenta_dye"}}, "result": {"item": "minecraft:charcoal", "count": 8}}
+{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:mutton"}, "result": "minecraft:charcoal", "experience": 0.35, "cookingtime": 600}

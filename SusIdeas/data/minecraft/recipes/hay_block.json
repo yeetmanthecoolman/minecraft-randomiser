@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#  ", "## ", "###"], "key": {"#": [{"item": "minecraft:purpur_block"}, {"item": "minecraft:purpur_pillar"}]}, "result": {"item": "minecraft:hay_block", "count": 4}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_door", "pattern": ["##", "##", "##"], "key": {"#": {"item": "minecraft:acacia_planks"}}, "result": {"item": "minecraft:hay_block", "count": 3}}

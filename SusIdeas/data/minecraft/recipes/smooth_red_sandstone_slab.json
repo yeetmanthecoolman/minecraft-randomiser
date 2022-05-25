@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "gold_ingot", "pattern": ["###", "###", "###"], "key": {"#": {"item": "minecraft:gold_nugget"}}, "result": {"item": "minecraft:smooth_red_sandstone_slab", "count": 6}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_fence_gate", "pattern": ["#W#", "#W#"], "key": {"#": {"item": "minecraft:stick"}, "W": {"item": "minecraft:oak_planks"}}, "result": {"item": "minecraft:smooth_red_sandstone_slab", "count": 6}}

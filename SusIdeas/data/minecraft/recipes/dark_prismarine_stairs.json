@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#-#", "#-#"], "key": {"#": {"item": "minecraft:nether_bricks"}, "-": {"item": "minecraft:nether_brick"}}, "result": {"item": "minecraft:dark_prismarine_stairs", "count": 6}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:stone_bricks"}, "result": "minecraft:dark_prismarine_stairs", "count": 1}

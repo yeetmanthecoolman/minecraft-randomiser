@@ -4,9 +4,15 @@
     ],
     "passes": [
         {
-            "name": "blobs2",
+            "name": "invert",
             "intarget": "minecraft:main",
-            "outtarget": "swap"
+            "outtarget": "swap",
+            "uniforms": [
+                {
+                    "name": "InverseAmount",
+                    "values": [ 0.8 ]
+                }
+            ]
         },
         {
             "name": "blit",

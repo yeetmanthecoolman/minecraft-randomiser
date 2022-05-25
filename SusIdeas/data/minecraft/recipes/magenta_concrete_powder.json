@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:smooth_sandstone"}}, "result": {"item": "minecraft:magenta_concrete_powder", "count": 4}}
+{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:rabbit"}, "result": "minecraft:magenta_concrete_powder", "experience": 0.35, "cookingtime": 600}

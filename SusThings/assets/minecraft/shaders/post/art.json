@@ -4,34 +4,17 @@
     ],
     "passes": [
         {
-            "name": "blur",
+            "name": "color_convolve",
             "intarget": "minecraft:main",
             "outtarget": "swap",
             "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 1.0, 0.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 20.0 ]
-                }
+                { "name": "Saturation", "values": [ 1.4 ] }
             ]
         },
         {
-            "name": "blur",
+            "name": "blit",
             "intarget": "swap",
-            "outtarget": "minecraft:main",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 0.0, 1.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 20.0 ]
-                }
-            ]
+            "outtarget": "minecraft:main"
         }
     ]
 }

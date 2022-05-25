@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:pink_dye"}], "result": {"item": "minecraft:red_sandstone_wall"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:clay"}, "result": "minecraft:red_sandstone_wall", "experience": 0.35, "cookingtime": 200}

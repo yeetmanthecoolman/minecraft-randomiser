@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:chest"}, {"item": "minecraft:tripwire_hook"}], "result": {"item": "minecraft:pink_dye", "count": 2}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:end_stone"}, "result": "minecraft:pink_dye", "count": 1}

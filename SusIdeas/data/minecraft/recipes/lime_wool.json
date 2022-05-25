@@ -1,1 +1,1 @@
-{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:kelp"}, "result": "minecraft:lime_wool", "experience": 0.1, "cookingtime": 100}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:nether_bricks"}}, "result": {"item": "minecraft:lime_wool", "count": 6}}

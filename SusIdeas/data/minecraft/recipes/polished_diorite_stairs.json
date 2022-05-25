@@ -1,1 +1,1 @@
-{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:polished_diorite_stairs", "experience": 0.35, "cookingtime": 100}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:gunpowder"}, {"item": "minecraft:blaze_powder"}, [{"item": "minecraft:coal"}, {"item": "minecraft:charcoal"}]], "result": {"item": "minecraft:polished_diorite_stairs", "count": 3}}

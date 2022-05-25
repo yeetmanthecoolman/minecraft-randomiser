@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:diorite"}}, "result": {"item": "minecraft:jungle_planks", "count": 6}}
+{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:chicken"}, "result": "minecraft:jungle_planks", "experience": 0.35, "cookingtime": 100}

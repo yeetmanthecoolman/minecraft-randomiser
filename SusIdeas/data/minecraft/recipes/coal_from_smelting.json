@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:granite"}, "result": "minecraft:coal", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["XXX", " # ", " # "], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:cobblestone"}}, "result": {"item": "minecraft:coal"}}

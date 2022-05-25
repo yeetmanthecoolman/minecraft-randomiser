@@ -4,7 +4,7 @@
     ],
     "passes": [
         {
-            "name": "bumpy",
+            "name": "deconverge",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },

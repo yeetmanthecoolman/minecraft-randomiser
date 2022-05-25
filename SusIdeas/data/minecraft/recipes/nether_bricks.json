@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:leather"}}, "result": {"item": "minecraft:nether_bricks"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:smooth_sandstone"}, "result": "minecraft:nether_bricks", "count": 1}

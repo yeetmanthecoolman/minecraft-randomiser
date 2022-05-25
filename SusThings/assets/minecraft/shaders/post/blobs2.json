@@ -4,7 +4,7 @@
     ],
     "passes": [
         {
-            "name": "fxaa",
+            "name": "antialias",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },

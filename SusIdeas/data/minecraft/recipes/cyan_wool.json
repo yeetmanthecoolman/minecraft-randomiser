@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "wool", "ingredients": [{"item": "minecraft:pink_dye"}, {"item": "minecraft:white_wool"}], "result": {"item": "minecraft:cyan_wool"}}
+{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:kelp"}, "result": "minecraft:cyan_wool", "experience": 0.1, "cookingtime": 100}

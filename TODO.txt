@@ -1,2 +1,0 @@
-add pack/assets/minecraft/sounds.json
-add pack/assets/minecraft/sound

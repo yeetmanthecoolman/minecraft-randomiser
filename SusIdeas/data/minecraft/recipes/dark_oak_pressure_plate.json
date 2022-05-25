@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:smooth_quartz"}, "result": "minecraft:dark_oak_pressure_plate", "count": 1}
+{"type": "minecraft:crafting_shapeless", "group": "light_gray_dye", "ingredients": [{"item": "minecraft:gray_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:dark_oak_pressure_plate", "count": 2}}

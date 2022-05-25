@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:andesite"}}, "result": {"item": "minecraft:cooked_salmon", "count": 6}}
+{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:blue_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:cooked_salmon", "count": 8}}

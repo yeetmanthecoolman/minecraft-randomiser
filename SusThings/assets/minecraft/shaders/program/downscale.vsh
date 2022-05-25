@@ -4,7 +4,6 @@ attribute vec4 Position;
 
 uniform mat4 ProjMat;
 uniform vec2 InSize;
-uniform vec2 OutSize;
 
 varying vec2 texCoord;
 varying vec2 oneTexel;

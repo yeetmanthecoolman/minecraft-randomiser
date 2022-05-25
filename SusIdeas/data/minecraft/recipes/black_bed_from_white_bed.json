@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:nautilus_shell"}, "X": {"item": "minecraft:heart_of_the_sea"}}, "result": {"item": "minecraft:black_bed"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:sandstone"}, "result": "minecraft:black_bed", "count": 2}

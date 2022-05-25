@@ -1,34 +1,23 @@
 #version 110
 
 uniform sampler2D DiffuseSampler;
+uniform sampler2D DitherSampler;
 
 varying vec2 texCoord;
-varying vec2 oneTexel;
 
-void main(){
-    vec4 c = texture2D(DiffuseSampler, texCoord);
-    vec4 u = texture2D(DiffuseSampler, texCoord + vec2(        0.0, -oneTexel.y));
-    vec4 d = texture2D(DiffuseSampler, texCoord + vec2(        0.0,  oneTexel.y));
-    vec4 l = texture2D(DiffuseSampler, texCoord + vec2(-oneTexel.x,         0.0));
-    vec4 r = texture2D(DiffuseSampler, texCoord + vec2( oneTexel.x,         0.0));
+uniform vec2 InSize;
 
-    vec4 nc = normalize(c);
-    vec4 nu = normalize(u);
-    vec4 nd = normalize(d);
-    vec4 nl = normalize(l);
-    vec4 nr = normalize(r);
+void main() {
+    vec2 halfSize = InSize * 0.5;
 
-    float du = dot(nc, nu);
-    float dd = dot(nc, nd);
-    float dl = dot(nc, nl);
-    float dr = dot(nc, nr);
+    vec2 steppedCoord = texCoord;
+    steppedCoord.x = float(int(steppedCoord.x*halfSize.x)) / halfSize.x;
+    steppedCoord.y = float(int(steppedCoord.y*halfSize.y)) / halfSize.y;
 
-    float i = 64.0;
-
-    float f = 1.0;
-    f += (du * i) - (dd * i);
-    f += (dr * i) - (dl * i);
-
-    vec4 color = c * clamp(f, 0.5, 2.0);
-    gl_FragColor = vec4(color.rgb, 1.0);
+    vec4 noise = texture2D(DitherSampler, steppedCoord * halfSize / 4.0);
+    vec4 col = texture2D(DiffuseSampler, steppedCoord) + noise * vec4(1.0/12.0, 1.0/12.0, 1.0/6.0, 1.0);
+    float r = float(int(col.r*8.0))/8.0;
+    float g = float(int(col.g*8.0))/8.0;
+    float b = float(int(col.b*4.0))/4.0;
+    gl_FragColor = vec4(r, g, b, 1.0);
 }

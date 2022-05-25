@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "black_dye", "ingredients": [{"item": "minecraft:ink_sac"}], "result": {"item": "minecraft:fire_charge", "count": 3}}
+{"type": "minecraft:crafting_shaped", "pattern": ["I-I", "# #"], "key": {"I": {"item": "minecraft:stick"}, "-": {"item": "minecraft:stone_slab"}, "#": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:fire_charge", "count": 3}}

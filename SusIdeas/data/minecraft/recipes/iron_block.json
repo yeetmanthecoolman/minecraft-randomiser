@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "wooden_button", "ingredients": [{"item": "minecraft:birch_planks"}], "result": {"item": "minecraft:iron_block"}}
+{"type": "minecraft:crafting_shapeless", "group": "planks", "ingredients": [{"tag": "minecraft:oak_logs"}], "result": {"item": "minecraft:iron_block", "count": 4}}
