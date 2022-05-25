@@ -1,0 +1,438 @@
+您確定要繼續嗎？
+O Realms é uma forma simples e segura de desfrutar de um mundo online do Minecraft com até 10 amigos ao mesmo tempo. Permite tóteis de minijogos e uma carrada de mundos personalizados! Só o dono do realm é que tem de pagar.
+Obalodn fehlgschlogn
+Uses LWJGL!
+Building terrain
+Kuriamas pasaulis...
+Operator
+ನಿಮ್ಮ ಸ್ವಂತ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಪಡೆಯಲು ಬಯಸುವಿರಾ?
+Cauldron
+Donkey
+Survival
+சேவை விதிமுறைகள்
+ಮುಂದುವರೆಯಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?
+§f          Anna Päärni
+Prenesi svijet
+Lime Per Pale Inverted
+Udgiverens webside
+Dien cliënt isj verouderd 'n neet broekbaar mét Realms.
+Zapiram realm...
+További beállítások
+Verdenens navn
+Deng momentan Welt gëtt net méi ënnerstëtzt
+Set the weather to rain
+Hau betirako ezabatuko du zure "realm"!
+Verifying your world
+Algunes opcions estaran desactivades mentre el món actual siga una inspiració
+Realm prennet
+Crea il mondo
+Schlüsse
+Your current world is no longer supported
+Realm neve
+Leer más sobre Mojang y leyes de privacidad
+செய்திகள் செய்தி
+Reih Clowan (Reihyssagh)
+Extraction en cours
+Cow hurts
+Skip
+Reiniciar món
+רעלם שאַפֿן
+Ключ (необов'язково)
+Dragon Wall Head
+Selesai
+Wacht op de eigenaar van de Realm om de wereld te herstellen
+There are %s tracked entities: %s
+חלק מההגדרות אינן זמינות מכיוון שהעולם הנוכחי שלך הוא במצב חוויה
+Уйнарга
+World is in admin lock state
+Verstryk binnekort
+Dies wird die aktuelle Welt deines Realms ersetzen
+Hvat er Realms?
+Renew
+Bes esu jod un sök eins us
+די נײַעסטע װעלט װערט אַראָפּגעלאָדן
+Unhuelen
+Tha an cliant agad ro shean is chan eil e co-chòrdail ri Realms.
+Athghinfear do Realm agus caillfear do Realm reatha
+Ka vu certe volas facar ico?
+Թագավորության զրոյացում...
+சாம்ராஜ்யம்
+Descargando
+Cette map n'est pas supportée en %s
+您的Realm将被还原至 '%s'（%s）
+Nombre del realm
+Invitar
+Beskrivning av realm
+munje %s
+Eg samtykkjer med Minecraft Realms
+Could not forbind to the Realm
+Mindre än en dag
+%1$s was roasted in dragon breath by %2$s
+Mossy Stone Brick Stairs
+Uploading '%s'
+ნიმუშის არჩევა (არასავალდებულო)
+Tempo restante
+Virschau vun der Kaart
+Diese Welt wird in %s nicht unterstützt
+Could not close your realm, please try again later
+您的Realm将变为不可用。
+Mojang implements certain procedures t' help protect little sandcrabs and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).
+
+Ya may need t' obtain parental consent before accessin' yer Realms account.
+
+If ye have an older Minecraft account (ye log in with yer username), ye need t' migrate the account to a Mojang account in order t' access Realms.
+다음 플레이어에게 보낸 초대를 취소하시겠습니까:
+Realms е безопасен, прост начин да се насладите на онлайн Minecraft свят с до 10 приятели наведнъж. Поддържа много мини игри и доста готови светове! Само собственикът на Realm-а трябва да плаща.
+Mossy Stone Brick Wall
+क्या आप वाकई यह करना चाहते हैं?
+أفتح Realm
+Doalla
+Blue Per Bend
+Empty
+Birta skrímsli
+Uppladdningsgränsen har nåtts
+Sigurnosne kopije
+Hiện tại
+Гафу итегез, хәзер мөмкинлек сынаулык уеннан булмау!
+Large Fern
+Kjo bot do te shkarkohet dhe do te shtohet tek botat e juaja single player.
+Hunc ludulum in %s non possum
+qo' QaD, nap mIw jabwI' minecraft qo' Sengvo' wa'maH jup tIv legh poH. Quj mo'mey labbe'chugh tIgh je ngaq 'oH! yIDIl nIS neH 'avwI' Dawuvmo'.
+Deng Welt gëtt iwwerpréift
+Ups, ĝi ŝajnas ke ĉi tio enhavokategorio estas aktuale malplena.
+Bonvolu rekontroli poste por pli enhavo, aŭ se via estas kreinto, %s.
+Neue Einladungen!
+Трэйлер
+インスピレーション
+%s eo. %s eo ar ment brasañ aotreet.
+جاري التحميل
+Изтича след %s дни
+เรียบร้อย
+Адкрыты рэалм
+Sortzen "Realm"...
+Light Gray Wool
+Thy choices be limit'd as thy present world be only an experience
+Reset world
+Создание мира...
+Emerald Ore
+Realm-sjablonen
+Send heim upp
+Parteċipanti
+Abendeuer
+Konfigurera realm:
+Gníomhaíocht Imreora
+Informazzjoni dwar l-Abbonament
+Stvori svijet
+Byt til verd
+Month
+Играчи
+Išj.
+"Realm" hau uzten ba duzu, ikusi ezin izango duzu berriro gonbidatzen ez badizute
+Pilihan, tentukan Dunia yang akan diletakkan pada Alam baru Anda
+Startwert (Optional)
+White Bed
+Δεν συμφωνώ
+Invalid boolean, expected 'true' or 'false' but found '%s'
+Памылка запампоўкі! (%s)
+Spruce Leaves
+Dien ereld wät nao dat Datum van '%s' (%s) torügbragt
+Ordinary pirate
+Magħmul
+Realm konfijureere:
+Xin vui lòng sử dụng phiên bản Minecraft mới nhất.
+Yükle
+Grej
+masti
+Iron Golem repaired
+Play
+Підключитись до світу
+Zustimme
+თამაში
+Dziyń
+Red Cross
+Accept
+Settings
+Minecraft Realms
+מפה זו אינה נתמכת ב- %s
+
+Թարմացվում է ինքնաբերաբար
+Opcije svijeta
+
+Heiti Ríkis
+Upload world
+Crear
+Játék
+Red Chief Sinister Canton
+Animali
+關閉的 Realm
+การดาวน์โหลดถูกยกเลิก
+Via regno estos regenerita kaj via nuna regno estos forigita
+Είστε σίγουροι ότι θέλετε να συνεχίσετε;
+Ajorna el account
+Opplasting fullført
+No puedes jugar este minijuego en %s
+Cyan Per Bend
+Nothing changed. That team can already see invisible teammates
+Alege o lume singleplayer pe care să o încarci
+§7Head of Social Media
+
+End minigame
+Novaj invitoj!
+Tenés que esperar hasta que el dueño reinicie el mundo
+Parrot squishes
+重生點保護區域
+Permainan Kecil terpilih:
+Join a crew
+relative position y
+Afjelaufe
+Enkele instellingen zijn uitgeschakeld omdat je huidige wereld een avontuur is
+Gerar animais
+Sisselogimine...
+如果你离开这个Realm，你只有被再次邀请才能看见它。
+A Complete Catalogue
+Snowy Taiga Hills
+Abonneren
+Vill du skaffa en egen realm?
+Erstellen Sie unbrauchbare Zeichen
+Destroy realm
+Villa íkomin; royn aftur seinni.
+Treasure Fished
+Jeśli opuścisz ten Realm, pozostanie on niewidoczny, aż zostaniesz ponownie zaproszony
+Zu Weld weggsln
+Ica ludeto ne ankore suportesas
+Ki
+Bu mini oyunu %s sürümünde oynayamazsınız
+अपलोड करें
+Одиночних світів не знайдено!
+Show Subtitles
+Превключване на този свят към мини-игра
+Plantilla
+Gat ekki lokað ríkinu, reyndu aftur seinna
+Vuoto
+Ad yawi amkan n umaḍal amiran n realm inek
+ცხოველების გაჩენა
+Kokeiluaikasi on loppunut
+World templates
+Terminar minijogo
+S říšemi Minecraft Realms lze bezpečně a jednoduše hrát Minecraft online až s deseti přáteli najednou. Podporuje řadu miniher a vlastních světů. Platí pouze vlastník říše.
+Vernieuwen
+Jugadores
+%s is bound to %s
+Normaler Benutzer
+Erfahr meh über Mojand und Dateschutzgsätzt
+Nutzungsbedingungen ned ugnumma
+Expected long
+Puretaan
+Thy game form be compatible not with Realms.
+Realm inciavà
+Molssut
+Realm oluşturuluyor...
+Invalid session (Try restarting your game and the launcher)
+Realm-Vorlagn
+O teu cliente está desactualizado e non é compatible con Realms.
+Extraherar
+Spiller
+Meer instellingen
+Panda hurts
+World options
+Le do thoil, nuashonraigh é don leagan is nua de Minecraft.
+Wenn du das Realm verlasch, chasch dus nüm beträte, bis du ernüüt iigladä wirsch
+Семе (по жељи)
+Logging in...
+Сигурни ли сте, че искате да отмените поканата
+Семе (незадолжително)
+Closed Realm
+Minispill gëtt gestart ...
+Configure realm
+150% hyperbole!
+Palikti realm
+Kies 'n Ander mini-speletjie
+consider submittin’ something yerself
+¡Probar!
+Niðurhali lokið
+Meses
+Aventuras
+Ҡабул итерғә
+Wat si Realms?
+Seed (Optional)
+Crear un realm
+Ве молиме, користите ја најновата верзија на Minecraft.
+Más opciones
+Spider hisses
+Пераключыць рэалм на міні-гульню
+Veranger minigame
+Trebate prilagođeni resurski paket za igranje u ovom realmu
+§f          Lydia Winters
+Il-prova tiegħek intemmet
+வீரர்கள்
+Walk Forwards
+Endirilə bilmədi
+Tniżżil
+Клиент ескірді және Realms-мен үйлесімді емес.
+§f          Anton Albiin
+Krouiñ ur Realm
+Horn Coral Wall Fan
+PVP
+Leng tinging
+Abeladä vorbereitä
+Hochlodn fehlgschlogn! (%s)
+Сигурни ли сте дека сакате да продолжите?
+Also try Super Meat Boy!
+ปุ่ม
+Fermer
+Fire crackles
+Gjer verda
+§f          Cesar Sima Falck
+'%s' çox böyük!
+Nearest player
+Expires soon
+Naredbeni blokovi
+
+अपलोड रद्द कर दिया
+The End
+Stäng realm
+Vabandame, prooviajad ei ole hetkel saadaval!
+Stripped Birch Wood
+Schdartwert (Obschonal)
+Hochlodn
+Water
+يجب إدخال اسم!
+הסר
++%s %s
+D'Welt ass eidel, w.e.g. wiel aus wat ze maachen ass
+Realm slute
+Inactivus
+Реалмийг хаах боломжгүй, дараа оролдож үзнэ үү
+Inspirational!
+Algunos ajustes están desactivados por tener un mapa de aventuras
+تم التحميل
+Downloaden voorbereiden
+
+Please reset or select another world.
+Ju mundeni më vonë të ktheheni tek bota juaj origjinale pa humbur asgjë.
+Knefel
+Stone Slab
+Chanjar por ludeto
+Magenta Per Bend
+Kin deze minigame neet speulen in %s
+Rozbaľovanie
+Nếu bạn rời khỏi realm này thì bạn sẽ không thể nhìn thấy nó trừ khi được mời lại
+Äventyr
+Music Disc
+Twój realm będzie niedostępny.
+Creando mundo...
+Shield blocks
+Clouds
+Mõned seadistused on keelatud, kuna sinu praegune maailm on inspiratsioon
+Skapa en realm
+‚%s‘ is zu groß!
+Ups, izgleda da je ova kategorija sadržaja trenutno prazna.
+Molimo Vas da kasnije pogledate za novi sadržaj, ili ako ste tvorac,
+%s.
+Oho, näyttää siltä että tämä sisältökategoria on tällä hetkellä tyhjä.
+Katso myöhemmin uudelleen uuden sisällön vuoksi, tai jos olet luoja,
+%s.
+¿Seguro que querés continuar?
+Cerrar realm
+Black Per Bend Sinister
+Day
+Tvoje říše nelze uzavřít, zkus to znovu později
+Pixels!
+Transferência cancelada
+ამოწურული
+Detta kommer att tillfälligt ersätta din värld med ett minispel!
+Ən yeniyi endir
+Jesi li siguran da želiš nastaviti?
+§f          Maria Lemón
+U sure u wanna keep goin?
+正在開啟 Realm...
+Энэ жижиг тоглоом дэмжигдэхээ больсон
+Mánnu
+Luo maailma
+Light Blue Base Indented
+§f          Fredrik Telenius
+Raw Mutton
+Кече-уен:
+Il-Minigame ħa tieqaf...
+Isem ir-Realm
+Dein Realm wird nicht mehr verfügbar sein.
+100% pure!
+Descargados
+Não concordo
+Abonnee
+Avoldaður viðskiftari!
+Logging in...
+Creează o lume
+Spultsje stopje…
+Realm-sjablonen
+Жасау
+Algunes opcions estàn desactivades ja que el món actual és un mapa d'aventures
+Awọn ifunni onisẹmu igba die alaabo
+Gotovo
+Unable to apply this effect (target is either immune to effects, or has something stronger)
+Reiniciar món
+¿Realmente quieres continuar?
+Gray Chief Indented
+Aquò va remplaçar temporàriament vòstre mond amb un mini-jòc!
+Realm zu Minispiel wechseln
+Minecart with Hopper
+संचालक
+Sandstone Wall
+Jugar
+Tha an saoghal ro shean
+Upload fejlede! (%s)
+Εξαγωγή
+Realm naam
+Realm bloqueado
+Was kicked from the game
+Quaeso, repone aut mundus alius elege.
+Stray Spawn Egg
+Take the elevator to the mezzanine!
+وب سایت ناشر
+Seu realm ficará indisponível.
+§f          Christoffer Hammarström
+Naam de Realm
+Ni najdenih svetov v enoigralskem načinu!
+Diamond Shovel
+Мир %s
+تسجيل الدخول...
+Hardcore máilmmit eai máhte leat ládden!
+De Listn mit de Inhoite vo dea Kategorie hot ned obgruafn wean kina.
+Bitte übaprüf dei Intanetvabindung oda vasuach es spada nuamoi.
+Making world...
+Sea template
+Ra ijọba kan!
+Leikarar
+Prosím, obnov jej nebo vyber jiný svět.
+Realm l'é un modo fàsiłe e seguro par gòdarse online co un màsimo de dieze amighi par volta. Gh'é un mar de minizughi e mondi parsonałizadi! Sol el paron de'l realm el ga da pagar.
+Whitelist is now turned off
+重置世界中…
+Νέες προσκλήσεις!
+Будь ласка, оновіться до останньої версії Minecraft.
+Sigurado ka bang gusto mong magpatuloy?
+End Crystal
+Water Lakes
+Ciyaarta ayaa mini dhammaan doontaa oo aad boqortooyadiisii waa la soo celin doonaa.
+Usuń realm
+Restaurar
+Brown Per Bend Sinister Inverted
+%1$s was killed by %3$s trying to hurt %2$s
+Camudar realm a Mini-xuegu
+Extraient
+Mesedez, probatu Minecraft berrabiarazten
+Skipar ny realm...
+Láddu ii leat onnestuvvan! (%s)
+Автоматски се обновува за
+Vanhenee päivässä
+Pufferfish
+Ανοιχτό βασίλειο
+§f          Jifeng Zhang
+Yellow Tang
+Walang pang-isahang mundong nahanap!
+=
+Maailma on ylläpitäjälukitustilassa
+ʎʇdɯƎ
+Excluir
+Wöltn
+Реалмийн үйлчилгээний нөхцөл
+Expired

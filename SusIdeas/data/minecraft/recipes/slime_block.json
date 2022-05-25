@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["##"], "key": {"#": {"item": "minecraft:red_wool"}}, "result": {"item": "minecraft:slime_block", "count": 3}}

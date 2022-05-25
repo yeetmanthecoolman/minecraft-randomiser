@@ -113,8 +113,13 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
                 languages.append(fullfilepath)
             elif dirpath == os.path.join(mcraft,'texts') and randomize_text:
                 specialtexts.append(fullfilepath)
-            elif dirpath == os.path.join(mcraft,'shaders','program') and randomize_shaders:
+            elif dirpath == os.path.join(mcraft,'shaders',"post") and randomize_shaders:
                 shaders[file.split('.')[1]].append(fullfilepath)
+            elif dirpath == os.path.join(os.path.join(data_folder,"assets","realms"),'lang') and randomize_text:
+                languages.append(fullfilepath)
+            elif dirpath == os.path.join(mcraft,'shaders',"program") and randomize_shaders:
+                shaders[file.split('.')[1]].append(fullfilepath)
+
 
     logging.warning(f"Random Seed: {seed}")
     def shuffler(randoBool, toRando, inputType):
@@ -238,7 +243,7 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
         else:
             logging.warning('Failed to identify operating system, placing file in current folder instead.')
         destfolder='SusThings'
-        shutil.make_archive(destfolder, 'zip', 'SusThings')
+        shutil.make_archive(destfolder, 'zp', 'SusThings')
         shutil.rmtree('SusThings')
         return 'Resource pack installed!'
     except:

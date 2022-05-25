@@ -289,7 +289,7 @@ def rum(data_folder: str, seed, randomize_advancements: bool, randomize_loot_tab
         printmsg = "File output at random_data.zip! Please copy over to your world's 'datapacks' folder"
         if destfolder != '':
             printmsg += f" ({destfolder})"
-        shutil.make_archive('SusIdeas', 'zip', out_dir)
+        shutil.make_archive('SusIdeas', 'zp', out_dir)
         shutil.rmtree(out_dir)
         return printmsg
     except Exception:
