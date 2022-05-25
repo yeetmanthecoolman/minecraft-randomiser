@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["@@", "##", "##"], "key": {"#": {"tag": "minecraft:planks"}, "@": {"item": "minecraft:flint"}}, "result": {"item": "minecraft:item_frame"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:item_frame", "count": 1}

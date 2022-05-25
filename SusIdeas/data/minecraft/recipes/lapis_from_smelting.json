@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:nautilus_shell"}, "X": {"item": "minecraft:heart_of_the_sea"}}, "result": {"item": "minecraft:lapis_lazuli"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:stone_bricks"}, "result": "minecraft:lapis_lazuli", "experience": 0.1, "cookingtime": 200}

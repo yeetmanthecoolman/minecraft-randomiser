@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "blue_dye", "ingredients": [{"item": "minecraft:cornflower"}], "result": {"item": "minecraft:orange_carpet", "count": 3}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:blue_dye"}, {"item": "minecraft:green_dye"}], "result": {"item": "minecraft:orange_carpet", "count": 2}}

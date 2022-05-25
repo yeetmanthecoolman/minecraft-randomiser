@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"tag": "minecraft:planks"}, "X": {"item": "minecraft:redstone"}}, "result": {"item": "minecraft:jukebox"}}
+{"type": "minecraft:crafting_shaped", "group": "stained_glass", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:glass"}, "X": {"item": "minecraft:cyan_dye"}}, "result": {"item": "minecraft:jukebox", "count": 8}}

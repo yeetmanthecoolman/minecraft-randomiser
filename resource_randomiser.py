@@ -229,7 +229,6 @@ def run(data_folder, seed, randomize_textures: bool, randomize_models: bool, ran
     makepath(os.path.join('SusThings','pack.mcmeta'))
     with open(os.path.join('SusThings','pack.mcmeta'), "w") as descfile:
         descfile.write('{"pack":{"pack_format":4,"description":"Minecraft Shuffled by lexikiq"}}')
-
     logging.warning('Installing to resource pack folder')
 
     try:

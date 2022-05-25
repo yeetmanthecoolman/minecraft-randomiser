@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:granite"}, "result": "minecraft:paper", "count": 2}
+{"type": "minecraft:crafting_shaped", "group": "wooden_slab", "pattern": ["###"], "key": {"#": {"item": "minecraft:dark_oak_planks"}}, "result": {"item": "minecraft:paper", "count": 6}}

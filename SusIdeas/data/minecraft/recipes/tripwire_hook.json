@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["///", " / ", "/_/"], "key": {"/": {"item": "minecraft:stick"}, "_": {"item": "minecraft:smooth_stone_slab"}}, "result": {"item": "minecraft:tripwire_hook", "count": 2}}
+{"type": "minecraft:crafting_shapeless", "group": "orange_dye", "ingredients": [{"item": "minecraft:red_dye"}, {"item": "minecraft:yellow_dye"}], "result": {"item": "minecraft:tripwire_hook", "count": 2}}

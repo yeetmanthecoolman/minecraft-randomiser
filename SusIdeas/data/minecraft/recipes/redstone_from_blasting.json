@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["X X", "X#X", "XRX"], "key": {"R": {"item": "minecraft:redstone"}, "#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:gold_ingot"}}, "result": {"item": "minecraft:redstone", "count": 6}}
+{"type": "minecraft:crafting_shaped", "pattern": ["FF", "FF"], "key": {"F": {"item": "minecraft:popped_chorus_fruit"}}, "result": {"item": "minecraft:redstone", "count": 4}}

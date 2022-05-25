@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:cobblestone"}, "result": "minecraft:magma_block", "count": 1}
+{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:redstone_ore"}, "result": "minecraft:magma_block", "experience": 0.7, "cookingtime": 100}

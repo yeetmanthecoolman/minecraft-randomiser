@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "yellow_dye", "ingredients": [{"item": "minecraft:sunflower"}], "result": {"item": "minecraft:cut_red_sandstone", "count": 2}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "XXX", "###"], "key": {"#": {"tag": "minecraft:planks"}, "X": {"item": "minecraft:book"}}, "result": {"item": "minecraft:cut_red_sandstone", "count": 4}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:stone"}, "result": "minecraft:birch_fence", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["SCS", "CCC", "SCS"], "key": {"S": {"item": "minecraft:prismarine_shard"}, "C": {"item": "minecraft:prismarine_crystals"}}, "result": {"item": "minecraft:birch_fence", "count": 3}}

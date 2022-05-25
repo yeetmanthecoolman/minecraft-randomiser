@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:end_stone_bricks"}, "result": "minecraft:oak_wood", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:polished_granite"}}, "result": {"item": "minecraft:oak_wood", "count": 6}}

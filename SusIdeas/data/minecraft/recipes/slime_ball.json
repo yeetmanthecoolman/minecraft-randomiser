@@ -1,1 +1,1 @@
-{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:chicken"}, "result": "minecraft:slime_ball", "experience": 0.35, "cookingtime": 100}
+{"type": "minecraft:crafting_shaped", "pattern": ["# #", " # "], "key": {"#": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:slime_ball", "count": 4}}

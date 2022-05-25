@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:smooth_stone"}}, "result": {"item": "minecraft:light_blue_bed", "count": 6}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_slab", "pattern": ["###"], "key": {"#": {"item": "minecraft:jungle_planks"}}, "result": {"item": "minecraft:light_blue_bed", "count": 6}}

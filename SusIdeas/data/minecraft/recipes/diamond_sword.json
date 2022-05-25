@@ -1,1 +1,1 @@
-{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:rabbit"}, "result": "minecraft:diamond_sword", "experience": 0.35, "cookingtime": 600}
+{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:yellow_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:diamond_sword", "count": 8}}

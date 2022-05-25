@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:nether_bricks"}, "result": "minecraft:snow", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["III", "IXI", "###"], "key": {"#": {"item": "minecraft:smooth_stone"}, "X": {"item": "minecraft:furnace"}, "I": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:snow", "count": 6}}

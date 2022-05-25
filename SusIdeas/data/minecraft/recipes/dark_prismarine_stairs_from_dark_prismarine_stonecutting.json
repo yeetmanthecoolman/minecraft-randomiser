@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["III", "IXI", "###"], "key": {"#": {"item": "minecraft:smooth_stone"}, "X": {"item": "minecraft:furnace"}, "I": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:dark_prismarine_stairs"}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_stairs", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:jungle_planks"}}, "result": {"item": "minecraft:dark_prismarine_stairs", "count": 4}}

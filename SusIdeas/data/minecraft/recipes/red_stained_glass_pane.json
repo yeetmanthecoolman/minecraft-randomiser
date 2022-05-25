@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:cactus"}, "result": "minecraft:red_stained_glass_pane", "experience": 1.0, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["##"], "key": {"#": {"item": "minecraft:magenta_wool"}}, "result": {"item": "minecraft:red_stained_glass_pane", "count": 3}}

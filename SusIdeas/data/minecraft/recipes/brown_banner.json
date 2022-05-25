@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_diorite"}, "result": "minecraft:brown_banner", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["# #", " # "], "key": {"#": {"item": "minecraft:brick"}}, "result": {"item": "minecraft:brown_banner"}}

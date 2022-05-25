@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": [" # ", "#X#", " # "], "key": {"#": {"item": "minecraft:glowstone_dust"}, "X": {"item": "minecraft:arrow"}}, "result": {"item": "minecraft:leather_horse_armor", "count": 2}}
+{"type": "minecraft:crafting_shaped", "group": "banner", "pattern": ["###", "###", " | "], "key": {"#": {"item": "minecraft:brown_wool"}, "|": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:leather_horse_armor"}}

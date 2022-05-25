@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:smooth_red_sandstone"}, "result": "minecraft:polished_andesite_stairs", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": [" #X", "# X", " #X"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:string"}}, "result": {"item": "minecraft:polished_andesite_stairs", "count": 4}}

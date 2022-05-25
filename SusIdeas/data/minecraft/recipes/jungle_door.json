@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:iron_ore"}, "result": "minecraft:jungle_door", "experience": 0.7, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "#R#"], "key": {"R": {"item": "minecraft:redstone"}, "#": {"item": "minecraft:cobblestone"}, "X": {"item": "minecraft:bow"}}, "result": {"item": "minecraft:jungle_door", "count": 3}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["F F", "F F", "###"], "key": {"F": {"tag": "minecraft:wooden_fences"}, "#": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:pumpkin_pie"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:pumpkin_pie", "count": 2}

@@ -1,394 +1,390 @@
-Zu Minispiel wechseln
-Green Chief
-იკეტება Realm...
-Αυτό θα αντικαταστήσει προσωρινά τον Κόσμο σας με ένα Μίνι Παιχνίδι!
-Minigames
-Weldvorlachn
-بازی
-لا يمكن تحميل عوالم الصعوبة القصوى!
-Gray Per Pale Inverted
-Kúp si ríšu!
-Owth Oberi An Realm...
-Descargado
-Dagur
-Vælg en verden til dit Realm [Valgfrit]
-Es isch en Fähler ufträte, bitte versuechs spöter nomal.
-Trailer
-Konfiguruj realm
-¡Clicá para crear un realm!
-Moand
-Aktuellt
-Tá an Realm ag dúnadh...
-Tornar inicializar lo mond
-Lingering Potion of Slowness
-¡Cliente desactualizado!
-Zmeniť minihru?
-Posodobi račun
-Speleractiviteit
-Attendeset verd...
-Dark Oak Wood
-¿Seguro que quieres continuar?
-האם אתה בטוח שברצונך להמשיך?
-ಚಂದಾದಾರಿಕೆಯನ್ನು ವಿಸ್ತರಿಸಿ
-अपने ग्राहक स्थानों के साथ संगत नहीं है।
-Преузимање
-Illusioner prepares blindness
-Dign welt is neët langer gesupport
-Selektoni një mini lojë tjetër?
-Dragon flaps
-Press %s
-Down Arrow
-Normala uzanto
-E Tanishme
-Preparing your world
-Кликни за креирање Релма!
-Kkes 
-Μπορείτε να αργότερα επιστρέψετε στον αρχικό σας κόσμο χωρίς να χάσετε τίποτα.
-O teu mundo será restaurado ata a data '%s' (%s)
-World name
-Уйнарға
-Prišlo je do napake, poskusi znova pozneje.
-Green Bordure Indented
-Opretter forbindelse til Realm...
-Website vaan de oetgever
-Cliens obsoletus est
-Mengalihkan dunia...
-razmislite o podnošenju neke svoje kreacije
-Regnum emere!
-Minecart with TNT
-Le monde est verrouillé par un administrateur
-Բեռնել
-¿Esbillar otru mini-xuegu?
-Descarga fallida
-Alŝutado de “%s”
-Aflopen
-Wereld boun...
-Saved screenshot as %s
-Igraj
-Cập nhật tài khoản
-Wil je het automatisch downloaden en installeren om te spelen?
-Buka Alam
-Новини
-Хайваннар
-niD jabwI'!
-Realms nun ye compatible coles versiones snapshot.
-Däin Realm konnt net zou gemaach ginn, probéier w.e.g. méi spéit nach eng kéier
-Дата пачатку
-Ńy idzie posyłać hardkorowych śwjatōw!
-Реалмды ашу
-Dark Prismarine Stairs
-Ви дійсно бажаєте скасувати запрошення
-Cliquez ici pour avoir plus d'infos!
-Closd realm
-Accepteren
-Crear un realm
-Minispel:
-Naozaj chceš pokračovať?
-Down with O.P.P.!
-Bee stings
-بازیکنان
-Создать мир
-Heruntorladn vorbereidn
-Съгласен съм с условията за
-Your client is outdated and not compatible with Realms.
-Cartographer works
-Реалмийг хаах
-डाउनलोड नवीनतम दुनिया
-¿De xuru que quies siguir?
-Vilt tú halda fram?
-Realms është një mënyrë e sigurt dhe e lehtë për të shijuar një botë online të Minecraft-it me dhjetë shokë në të njejtën kohë. Mbështetë plot minilojra dhe disa nga botë të kostumizuara! Vetëm pronari  i Realms-it duhet të paguaj.
-Creating the realm...
-Mae eich cwsmer yn rhy hen ac nid yw'n gytûn gyda teirnasoedd.
-Proteccion del punt de reaparicion
-Realm ime
-
-Potion of Night Vision
-V redu
-Vís aftur
-Kliktar por krear vua nova realmo!
-Minispiel
-sƆԀN uʍɐdS
-Trailer
-Энэ газар %s -д таарахгүй
-Choose another minigame
-Ded
-この Realm はロックされています
-Realms Terms of Service
-Quj Qujmey:
-This merry game can be play'd no more
-Jouer
-Kas oled kindel, et soovid jätkata?
-Verloopt in %s dagen
-Lööf en nem Dach us
-Hindi mo pwedeng i-upload ang Mundo na Pangdalubhasan!
-Connecting to the server...
-Publié par
-PVP
-目前
-Cluich
-Fes clic per a crear el teu realm!
-Astebleef herkrieg of selecteer eijn andere welt.
-Pechando o realm...
-Black Bed
-فعالیت بازیکن
-Spiller
-Condicions d'ús de 'Realms'
-Estas %s. La maksimuma grando estas %s.
-Uitgever
-Ainmhithe a ghairm
-Generate world
-Poślij śwjot
-Vanhentunut asiakasohjelma
-Светът се отваря...
-Dieze mini-game is niët langer meër gesupport
-Pasirinktas „Mini“ žaidimas:
-Einige Eenschdellungen sin deaggtiviert, da deine aggtuelle Weld eene Inschbirationsweld is
-You won't be able to upload this world to your realm again
-你的试用期已结束
-あなたの Realm は永久に削除されます
-Estigi bestojn
-Kliënt Onversoenbaar!
-velfi'i
-Ràinig thu na tha ceadaichte dhut de luchdaidhean a-nuas
-Nasztylōwniŏ
-Narrator Disabled
-การป้องกันการเกิดใหม่
-Mojang määht bestemmte Protzeduure, öm Pänz un dere Privatheit ze schötze. Et wäde unger angerem dat „Jesetz zum Schotz dä Privatheit vun Pänz em Internet“ (COPPA) un de „Dateschotz-Jrundverordnung“ (DSJVO) injehale.
-
-Möchlicherweis bruchs do de Zostimmung dinger Eldere, öm op ding Realms-Konto zozejriefe.
-
-Wenn do eh äähler Minecraft-Konto häs (do meldst dich met dingen Benotzernam an), musst do dat in eh Mojang-Konto ömwääßele, om op Realms zojriefe ze künne.
-注意：
-Domhain réidh
-Light Blue Paly
-Ka vu volas selektar altra ludeto?
-Geschlossenes Realm
-Redstone Repeater
-Verbinden met Realm mislukt
-Veličina je %s. Maksimalno dozvoljena je %s.
-სამყაროს სარეზერვო ასლები
-Көрсетілген атауға шақыру жіберу мүмкін емес
-Su maailm taastatakse kuupäevale "%s" (%s)
-Przepraszōmy, terŏzki dyma sōm ńydostympne!
-Preparando descarga
-Żgur tixtieq tkompli?
-Köp en realm!
-คุณไม่สามารถที่จะอัปโหลดเวิลด์นี้ไปยังรีมได้อีก
-Dag
-Keypad 1
-This minigame is no longer supported
-Válassz ki egy minijátékot
-Yer subscription
-ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ
-Ο διακομιστής σας είναι ασύμβατος με τα Βασίλεια.
-Ok
-Opna Realm
-Spölerfeed för körte Tied utgeschaltet
-Değişiklikler
-ವರ್ಲ್ಡ್ಸ್
-Gumagawa ng mundo...
-自动续期剩余时间：
-Uswähle
-Bigong maka-konek sa realm
-Display vun der Spilleraktivitéit temporär desaktivéiert
-Diamzeret eo an arval
-Renouvelé automatiquement dans
-Veranderingen
-Evoker Spawn Egg
-Your client is not compatible with Realms.
-Möchtest du fortfahren?
-Ríkið þitt er útrunnið
-Ladataan '%s'
-Your world will be regenerated and your current world will be lost
-عرض مختصر
-Downloaded
-請選擇
-Vòstre Realm es per cambiar per un autre monde
-Jugadores
-Vanligur brúkari
-Испробајте бесплатно!
-Subir mundo
-§f          Kevin Martinez
-De Welt es leddisch, sök us wat ze donn es
-¿Quieres tener tu propio realm?
-Sumar stillingar eru óvirkar vegna þess að núverandi heimur er ævintýri
-pꞁɹoʍ ɹnoʎ ᵷuᴉʎɟᴉɹǝΛ
-Nowości z Realms
-Your realm will be permanently deleted
-Redstone Ore
-Welt %s
-Unknown item '%s'
-%s күн ішінде ешқандай белсендігі жоқ
-Määritä Realm
-Set spawn point to %s, %s, %s for %s
-Dein Realm wiederherstellen
-Reset
-Heimsstillingar
-Drio acédar...
-Te rugăm să folosești cea mai recentă versiune de Minecraft.
-Operaciulo
-Een fout is opgetreden. Probeer het later opnieuw.
-உங்கள் மண்டலம் கிடைக்காது.
-Таны татаж авах гэж байгаа дэлхий %s-с том байна
-Generate world
-Tu mundo será restaurado a la fecha "%s" (%s)
-Fechando o realm...
-Change to merrry game
-Asiakasohjelmasi on yhteensopimaton Realmsin kanssa.
-§f          Moira Ingeltun
-Тоглогч урих
-Luodaan maailmaa...
-Membukakan realm...
-Die Wält isch veraltet
-Witch throws
-Trader Llama
-Polished Diorite
-Klien anda tidak sesuai dengan Realm.
-Förnyas automatiskt om
-التبديل إلى العالم
-Nova vabila!
-Wiedaheastön
-Realm'ı sil
-Ημέρες
-Núverandi
-தினம்
-Chanjas mondo...
-Este mapa no es soportado en %s
-Pwede mo ring i-download ang mundo sa pang-isahang manlalaro.
-Želiš svoj lasten realm?
-Deseja mesmo continuar?
-Mundo desactualizado
-Toolsmith works
-Map trailer
-Verdenen du er vil hente er større end %s
-¡Debes ponerle un nombre!
-Ag uaslódáil '%s'
-Zure Realm-a betirako ezabatuko da
-Ոգեշնչում
-نسختك قديمة جدًا وغير متوافقة مع الـRealms.
-Nothing changed. Collision rule is already that value
-请重置或选择另一个世界。
-Lescha
-Aumentar suscripción
-Thine realm shalt be inaccessible henceforth.
-Jūsų realm taps nepasiekiama.
-Descàrrega fallida
-Boarásmuvvat klieanta!
-Selecionar outro minijogo?
-%s. maailm
-Realm anda akan dihapuskan secara kekal
-Inlooden
-Αλλαγή Μίνι Παιχνιδιού
-Paspauskite, kad sukurtumėte realm!
-Bisha
-إعداد التنزيل
-Tak burtur
-I-click upang Makalikha ng Realm!
-Mudar o realm para um minijogo
-Aan
-פֿאַרלאָפֿן
-Пригласить
-Predplatiť
-Yá nun ta sofitáu'l to mundu actual
-Hired Help
-Ühine
-%1$s suffocated in a wall
-Dei Wölt wiad afn Stand vom '%s' (%s) zruckgsetzt
-Spielaaktivität
-Do kanns de Welt dann nit mieh op di Realm eroplade
-Brinely
-Pokretanje mini igre...
-Discrete Scrolling
-Stay a while, stay forever!
-Alŝuto rezignita
-Atvērt Realm
-Minecraft-ын хамгийн сүүлийн хувилбарыг суулгана уу.
-Normaler Spieler
-Гэта часова заменіць ваш свет на міні-гульню!
-de Minecraft Realms
-Fordrive game way
-Amini urar-a ur yezgi ara yettusefrak
-Der skete en fejl, prøv venligst igen senere.
-Attain'd
-Ymlaen
-Magenta Skull Charge
-Сығарыу
-Бу дөньяны сезнең реалмга тагын йөкләргә мөмкин түгел
-Жүктеу қатесі
-Sûnt dizze wrâld yn de modus ûnderfining is, binne guon ynstellingen útskeakele
-Parrot vexes
-Zure "realm" erabilezina bihurtuko da.
-Лицензиялық келісім қабылданбады
-Hvað er Ríki?
-It is %s. The greatest aleaved greatness is %s.
-Kedaluwarsa
-Llavor (opcional)
-Por favor, actualiza a la versión más reciente de Minecraft.
-本当に続行しますか？
-Resetuj świat
-Skapa djur
-Tento svět už nebudeš moci znovu nahrát na Minecraft Realms
-Nastavenia sveta
-The world border is currently %s blocks wide
-Servicevilkår ikke accepteret
-Вкл
-Değiştir
-§f          Magnus Jäderberg
-Algunas opciones se encuentran desactivadas porque el mundo actual es de aventura
-Änderungen
-Sea Name
-Tu suscripción
-Ungültige Sitzungs-Id
-Get a trial!
+Press a key to select a command, and again to use it.
+Vörður meiðir
+Regardez aux alentours
+Напитак повређивања
+Kopijos kopija
+სალათისფერი ჩარჩო
+Einteilung von da benutzadefiniertn Bossleistn %s is geändat wordn
+De aktuell Tied is %s
+Uzlabotie gabali: %s
+Željezna poluga
+Zelena obrnuta lijeva puna dijagonala
+Je cliënt is niet bruikbaar met Realms.
+Placa de presión de carballo
+Биом
+Príprava vyvolávača na zaklínanie
+Upload cancelled
+Puiet de mesteacăn în ghiveci
+Учитавање форсираних чанкова за димензију %s
+Kantuniera fuq ix-xellug b'bażi vjola ċar
+˙˙˙ᵷuᴉᵷuᴉԀ
+Діамант
+분홍색 지구 모양
+Veraltet
+[%s: %s]
+Silio Anifeiliaid
+Besturing...
+El juego va a dejar de funcionar en %s...
+Sværhedsgraden blev ikke ændret, den er allerede sat til %s
+Chọn một trò chơi nhỏ khác
+Could not put %s in slot %s
+Đã được mời
+סוואנה
+Hellgraue Shulkerkiste
+Ланцуговы
+Unieważniono %s postępów graczowi %s
+Pumekala
+Eiland
+Light Gray Bend Sinister
+White Inverted Chevron
+Pričakoval koordinate
+Invocador lanza hechizo
+Kocka nethernih bradavic
+Пружање висине
+Midter knap
+Мутное туманное зелье
+%s ei ole sobiv olem selle käskluse jaoks
+Холодный океан
+Тел...
+Purppura creeper-räjähde
+Приєднане стебло кавуна
+右底黄绿方
+Bloko da bruna fungo
+Izmjena nije učinjena. To je već ime ovog bossbara
+Ногоон зүүн хагас
+Cheval-zombie
+Amodol
+S'han copiat les dades del bloc del client al porta-retalls
+Kapottwerpdrank
+Loro imita a un zombi chancho
+[%s: %s]
+%1$s s'est fait bombarder par (un(e)) %2$s avec %3$s
+Kyllä
+Былғар етік
+Oranžinė kairioji pusė
+Bruine per band
+انتهت المهلة
+%s no tiene puntuaciones que mostrar
+Стейк
+Raga korallis
+Flecha com efeito
+Caral da glaça colorada virt tint
+कछुए के चार अंडे
+תוכי נוהם
+Carped Leim
 Experiences
-Sumar stillingar eru óvirkar vegna þess að núverandi heimur er upplifun
-შთაგონებითი
-Turtle Shell
-Modèles de monde
-Purple Per Pale
-Vòstre client es obsolet e es pas compatible amb Realms.
-Нисам успео да пошаљем свет (%s)
-Realms no es compatible con las versiones de prueba (snapshots).
-Прыгоды
-¿Seguro que quieres continuar?
-Przełącz minigrę
-ǝʇᴉsqǝʍ ɹǝɥsᴉꞁqnԀ
-Nije útnûgingen!
-Гатова
-Applied enchantment %s to %s's item
-Descargando
-Fluo de ludantoj malebligata intertempe
-Prufu tíma er lokið
-Rukunkaaga
-玩家
-命令方块
-Skeleton Horse Spawn Egg
-Subir mundo
-Skip
-Opcións do mundo
-Resetuj śwjot
-Clica per crear el realm!
-la'oi Realm cu selme'e
-Verd %s
-Cnaipe
-L-isem ipprovdut ma setgħax jiġi mistieden
-اختر القالب (اختياري)
-Jump Boost
-Xóa realm
-No se pudo cerrar tu realm. Por favor, volvé a probar más tarde
-World 2
-This ban affects %s players: %s
-Sutinku
-Ang mundong ito ay walang laman, maaaring pumili ng gagawin
-Odłōnczony
-Кнопка
-§3And yet they play the game.
-Животные
-Θέλετε να συνεχίσετε;
-Anert Minispill wielen?
-Realm megnyitása
-Smooth Stone
-Cambiar de minixogo
-Завршавање мини игре...
-Verlaat realm
-Wereld resetten
+ஊதா மெழுகுவர்த்தி டெர்ராகோட்டா
+Nic se nezměnilo, viditelnost zprávy o smrti již má tuto hodnotu
+Nada cambió: el jugador ya estaba bloqueado
+Animales criados
+Наметало
+Ladrillos del Nether
+Sètz segur que volètz contunhar?
+Select a player to teleport to
+Tangga Akasia
+IV
+-> %s <%s> %s
+Plako di netherbriko
+Chorus
+Verdediger sterft
+Ponya
+Skrytý
+Magma Cube Vdes
+%1$s was doomed to fall
+Ertrunkener gluckert
+Magmacrème
+Verbinnen mit dat Realm...
+金のリンゴ
+Pienk
+Phantom atacando
+Illusionist
+Verkar berre på utløysarmål
+หัวหน้าสีน้ำเงิน
+Khôi phục
+Ghast que morís
+Dead Fire Coral Fan
+ʻIli Holoholona Pāpale
+Hung Dragon Head
+Et sin %s Datepakete anjeschalt: %s
+Qaynaq paketi qovluqunu aç
+Nivala golemo doloras
+Montras fuzebli
+Uovo generatore di calamaro
+Gray Bordure Indented
+Стрела с връх
+Επιλέξτε κόσμο
+Roervis
+இடது
+Colinas de taiga con árboles gigantes
+가죽 장화
+Assinar
+Pez globo herido
+Caval
+Use thy %1$s button to open thine inventory
+கிரெயின்ஸ்டோன் பயன்படுத்தப்பட்டது
+Ҡаҙаныштары
+Estandarte laranxa
+Wäiss Flank riets
+Fire burn, and cauldron bubble
+Тёплый океан
+Lila shulkerdoboz
+Black Chief Sinister Canton
+End Crystal
+Dystans przebyty szybując
+Distance ye Climbed
+Svetlo zelena shulker skrinja
+Кожа
+Deydningarlækni
+Pared de ladrillos de piedra del End
+Flor de chorus crece
+Non
+%s trigger engedélyezve %s entitás számára
+키패드 -
+Tumma tammiluukku
+Banda sinistra magenta
+ಏನೂ ಬದಲಾಗಿಲ್ಲ. ಆ ತಂಡ ಈಗಾಗಲೇ ಅಗೋಚರ ತಂಡದ ಸದಸ್ಯರನ್ನು ನೋಡಬಹುದು
+;
+Set anew %s for %s
+Stop Realm
+Күрсәтелгән җыелманы әйберләр карарга мөмкин түгел
+Soyulmuş Huş Odunu
+Tronco de abeto
+Muinchill clì
+Braaivleis
+Tan
+Chevron roża
+Mate activity
+Grüns Bett
+Prijatý neplatný paket pohybu hráča
+Poción de fuerza
+Parmasarno
+Monsta eischoitn
+%1$s je otišao sa bang kada se borio sa %2$s
+Per Anfractum Aerium
+Dezerto
+Poción persistente de levitación
+Schliefstein jebruch
+Tuğla
+Səyyar Tacir
+정글 나무 원목
+Iliuzionistas ruošia aklumo prakeiksmą
+Weißes rechtes Untereck
+알 수 없는 ID입니다: %s
+Pieskovcový stupienok
+Конструкцията беше записано като "%s"
+跳躍次數
+Көк
+I-reset ang icon
+Chiều cao không được tập trung
+Tortelbaba sterf
+Gulur niðaripartur
+Rombo morado
+Briciau Carreg
+[%s] %s
+Kaf a Realm!
+frint und steal
+Dä agäbeni Spieler häd nid chönne iigladä werde
+blabi xinmo
+רױטער שטעמפּל
+Cantón amarillo
+Valda resurspaket
+Moˑstati
+Svijetlo siva pruga
+Distance Walked under Water
+Серверҙың адресы
+Türkizkékkel vágott
+Rijeka
+Brauner Schräglinksbalken
+Llwytho tir...
+Pale Grey
+Hellgraus Kreiz
+Book pakken
+Lava-Ozean
+All Effekte woode vun %s Zille fottjenomme
+Filo
+Hang
+Visión en 3D
+Grand gardien
+Símbolo rosa
+Datumpako “%s” jam estas ebligita!
+Espaço 5 da barra rápida
+היית לא פעיל במשך זמן רב מדי!
+Чиләк
+Grå venstrestolpe
+Lijevi klik
+%1$s sakatu jaisteko
+Filafloso
+Jaje kornjače se otvara
+Чорний цемент
+Gracz %1$s spadł z wysokiego miejsca
+Има %s бана:
+%1$s ha muerto entre espinas en un arbusto de bayas dulces
+Grantømmer
+Bend Pinc
+Bazë e prerë e Kuqe
+nuq 'oH jabwI'?
+Supersalto
+Per Anfractum Conversum Cyaneum
+Zamszona brukowa płyta
+Poción arrojadiza rara
+Blocks o' Tunes
+Razhroščevalni način
+Зачувај
+Fàcia de Creeper
+Jraue Schrächbalke
+%1$s wilde niet in de wereld van %2$s wonen
+Broun cat protecshun
+Comparador de redstone
+Forma desconocida
+Brathadóir Sholas an Lae
+蓝色爬行者盾徽
+هیچ دنیای تک نفره ای یافت نشد!
+Draakon uriseb
+Seedang
+Temps restant
+Залхаагч хашхирах
+Kleine bal
+Ganzzuel däerf net méi kleng wei %s sinn, %s ass ze kleng
+Steenheel
+Цијан горња половина
+Memuat turun
+Geel bed
+Ghast dispara
+Cilalı Andezit Merdiven
+טייגה מושלגת
+Calculando chunks...
+saavuta tasemeid, tervis ja nälgimine
+Spieler
+Mur Kalldrëmi Me Myshk
+Saadagtig
+Armbrøst lades
+Томанлы левитация эсемлеге
+;
++%s%% %s
+Integer must not be less than %s, found %s
+Stenen knop
+Gwagle Adeileddol
+Diepte Ruisexponent
+Aer Folúis
+Escaleiras de abeto
+Afstand kan niet negatief zijn
+Декоративные блоки
+Lingering Potion of Water Breathing
+Noho ora
+Definições do rato
+Šířka
+Players with gamemode
+Կանաչ Մահճակալ
+Flaggmynstur
+F3
+Groen Glaspaneel
+Ofen benutzt
+Losange d'argent
+Witte schildvoet
+भूरा
+Layong Baboy
+Hongo marrón
+Hochlodelimit erreicht
+Connexion Dirècta
+चैट संदेश नहीं भेज सका
+Yellow Bordure
+Alçapão fechado
+Lupus fremit
+Shulkerskot brestur
+निम्बू रंगीन कांच
+Shigjeta e Mjeshtrit të Breshkës
+Activóse'l narrador
+Mechero
+Pers Dwarsstreep
+מויזנשפּירעוודיקקײַט
+Đường ray kích hoạt
+Orange övergång ovanifrån
+Бяло долно пресичане
+%1$s estis premplatigita per falanta amboso batalante %2$s-n
+Oeuf spawneur d'ours polaire
+Spieler
+\
+Бу дөньяның оптимальләштерү процедурасы барлык аның мәгълүматләрен иң яңа форматта саклап кала. Дөньяның зурлыгына карап, оптимальләштерү процедурасы күп вакыт алырга мөмкин. Тәмамлангач, уенның тизлеге артачак, ләкин ул уенның элеккеге версиялары белән туры килмиячәк. Сез оптимальләштерү процедурасын башларга телисезме?
+Kompass
+Kunvokar fera golemo por defensar vilajo
+Türkiser Creeper
+Viesca de bidul
+Seletor não permitido
+Dette vil slette dit Realms nuværende verden!
+Orange
+Blau cel
+Cijan gornji desni kanton
+進食
+Синя шулкърова кутия
+Çarpayınız məhv edilmiş və ya tıxalı
+F6
+Swarte dwersbalke
+Ажыратқан
+Peroked o chuchuiñ
+Sparaläge - skriv till fil
+לוגם
+Stirklavoj...
+Berje
+Witherskelettenspawnei
+Vinstri ermi
+Laama mökitab vihaselt
+Dollágáddi
+Tha %2$s buill san sgioba %1$s: %3$s
+Antal hopp
+%s се приклучи на играта
+Tooltip avansadi: in mostra
+Showing craftable
+Kiej na gowie:
+Res ha canviat, la visualització dels missatges de mort ja tenia eixe valor
+‚%s‘ es ze jroß!
+Lichgreune wol
+Dib
+Caixa de shulker marró
+%1$s fiel aus der Welt
+Spojiť
+주운 횟수
+Modified sailor data of %s
+Red Kite
+F3
+manku viska
+Interacties met weefgetouw
+Blåsfisk sprattlar
+屍殼呻吟聲
+Staighre Andéisíte Snasta
+¡Haz que se reproduzcan dos animales de cada tipo!
+Försvaga och bota sedan en zombiebybo
+Se copiaron los datos de la entidad al portapapeles (cliente)
+Nothing changed. The specified properties already have these values
+Déronse %s nivéis de experiencia a %s
+Orla roxa
+Φαράγγια
+Vil du halda fram?
+Lincoln Cross
+אומברױבאַרער טרונק
+Andesitmauer
+Game over!
+Ваартай хөх хонгорзул
+Hiện không có mục tiêu nào
+Tha armachd eich 'ga cur air
+Server de Minecraft
+Vidru tintao n'azul claro
+自チームに非表示
+Templates
+Pantalones de cota de malla
+מפת חוקר אוקיינוס
+Lichtgroene omgekeerde keper
+Lähtesta
+ქმნილებები ქულებით
+Estandard planeta
+Corner
+渔夫
+Caps Lock
+Planeta gris argia
+%1$s ġie maqtul hu u jipprova jweġġa' lil %2$s
+Herlaai hulpbronpakkette
+Caput Dextrae Cantonis Aurantii
+Lag treplanker
+Arcilla
+Plava maćuhica
+Дуготрајни напитак тровања
+Llábana de carbayu escuru

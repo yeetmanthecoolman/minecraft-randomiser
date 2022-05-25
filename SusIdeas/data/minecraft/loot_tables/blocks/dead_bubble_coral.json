@@ -1,1 +1,1 @@
-{"type": "minecraft:gift", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:cod"}, {"type": "minecraft:item", "name": "minecraft:salmon"}]}]}
+{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:acacia_button"}]}]}

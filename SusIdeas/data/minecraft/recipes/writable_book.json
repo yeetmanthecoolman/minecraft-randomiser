@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"tag": "minecraft:planks"}, "X": {"item": "minecraft:diamond"}}, "result": {"item": "minecraft:writable_book"}}
+{"type": "minecraft:crafting_shapeless", "group": "magenta_dye", "ingredients": [{"item": "minecraft:allium"}], "result": {"item": "minecraft:writable_book"}}

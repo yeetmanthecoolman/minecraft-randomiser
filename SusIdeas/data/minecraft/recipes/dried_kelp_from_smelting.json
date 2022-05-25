@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:white_carpet"}, "$": {"item": "minecraft:black_dye"}}, "result": {"item": "minecraft:dried_kelp", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["I~I", "I I", "I I"], "key": {"~": {"item": "minecraft:string"}, "I": {"item": "minecraft:bamboo"}}, "result": {"item": "minecraft:dried_kelp", "count": 6}}

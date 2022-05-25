@@ -1,1 +1,1 @@
-{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:redstone_ore"}, "result": "minecraft:chiseled_quartz_block", "experience": 0.7, "cookingtime": 100}
+{"type": "minecraft:crafting_shaped", "pattern": ["GGG", "QQQ", "WWW"], "key": {"Q": {"item": "minecraft:quartz"}, "G": {"item": "minecraft:glass"}, "W": {"tag": "minecraft:wooden_slabs"}}, "result": {"item": "minecraft:chiseled_quartz_block"}}

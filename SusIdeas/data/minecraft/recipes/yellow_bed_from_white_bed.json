@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["XXX", "X X"], "key": {"X": {"item": "minecraft:gold_ingot"}}, "result": {"item": "minecraft:yellow_bed"}}
+{"type": "minecraft:crafting_shapeless", "group": "pink_dye", "ingredients": [{"item": "minecraft:red_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:yellow_bed", "count": 2}}

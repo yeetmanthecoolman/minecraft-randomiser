@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:wheat"}}, "result": {"item": "minecraft:compass"}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:coal_block"}], "result": {"item": "minecraft:compass", "count": 9}}

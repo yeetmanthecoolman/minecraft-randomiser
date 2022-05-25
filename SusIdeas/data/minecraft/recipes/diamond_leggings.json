@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_pressure_plate", "pattern": ["##"], "key": {"#": {"item": "minecraft:acacia_planks"}}, "result": {"item": "minecraft:diamond_leggings"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:nether_quartz_ore"}, "result": "minecraft:diamond_leggings", "experience": 0.2, "cookingtime": 200}

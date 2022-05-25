@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["##", "##", "##"], "key": {"#": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:purple_glazed_terracotta", "count": 3}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:cod"}, "result": "minecraft:purple_glazed_terracotta", "experience": 0.35, "cookingtime": 200}

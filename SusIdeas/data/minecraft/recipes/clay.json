@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["A", "B"], "key": {"A": {"item": "minecraft:tnt"}, "B": {"item": "minecraft:minecart"}}, "result": {"item": "minecraft:clay"}}
+{"type": "minecraft:crafting_shapeless", "group": "light_gray_dye", "ingredients": [{"item": "minecraft:oxeye_daisy"}], "result": {"item": "minecraft:clay"}}

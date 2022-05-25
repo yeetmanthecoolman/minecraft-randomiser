@@ -1,1 +1,1 @@
-{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:kelp"}, "result": "minecraft:mojang_banner_pattern", "experience": 0.1, "cookingtime": 600}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:gunpowder"}, {"item": "minecraft:blaze_powder"}, [{"item": "minecraft:coal"}, {"item": "minecraft:charcoal"}]], "result": {"item": "minecraft:mojang_banner_pattern", "count": 3}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": [" #X", "# X", " #X"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:string"}}, "result": {"item": "minecraft:beacon"}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:paper"}, {"item": "minecraft:enchanted_golden_apple"}], "result": {"item": "minecraft:beacon"}}

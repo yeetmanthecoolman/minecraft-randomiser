@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:smooth_quartz"}}, "result": {"item": "minecraft:stone_stairs", "count": 6}}
+{"type": "minecraft:crafting_shaped", "group": "stained_terracotta", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:terracotta"}, "X": {"item": "minecraft:cyan_dye"}}, "result": {"item": "minecraft:stone_stairs", "count": 8}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:green_terracotta"}, "result": "minecraft:bone_meal", "experience": 0.1, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "group": "wooden_door", "pattern": ["##", "##", "##"], "key": {"#": {"item": "minecraft:birch_planks"}}, "result": {"item": "minecraft:bone_meal", "count": 3}}

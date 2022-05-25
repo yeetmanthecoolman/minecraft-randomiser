@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["NN", "NN"], "key": {"N": {"item": "minecraft:nether_brick"}}, "result": {"item": "minecraft:light_blue_wool"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:emerald_ore"}, "result": "minecraft:light_blue_wool", "experience": 1.0, "cookingtime": 200}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "wool", "ingredients": [{"item": "minecraft:light_blue_dye"}, {"item": "minecraft:white_wool"}], "result": {"item": "minecraft:black_dye"}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:paper"}, {"item": "minecraft:wither_skeleton_skull"}], "result": {"item": "minecraft:black_dye"}}

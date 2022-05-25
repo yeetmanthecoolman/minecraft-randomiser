@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["NW", "WN"], "key": {"W": {"item": "minecraft:nether_wart"}, "N": {"item": "minecraft:nether_brick"}}, "result": {"item": "minecraft:cyan_concrete_powder", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:sandstone"}}, "result": {"item": "minecraft:cyan_concrete_powder", "count": 4}}

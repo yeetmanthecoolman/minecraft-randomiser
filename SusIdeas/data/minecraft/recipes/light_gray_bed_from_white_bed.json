@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["# ", " X"], "key": {"#": {"item": "minecraft:fishing_rod"}, "X": {"item": "minecraft:carrot"}}, "result": {"item": "minecraft:light_gray_bed"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:sugar_cane"}}, "result": {"item": "minecraft:light_gray_bed", "count": 3}}

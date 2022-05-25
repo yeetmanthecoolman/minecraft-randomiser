@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_terracotta", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:terracotta"}, "X": {"item": "minecraft:white_dye"}}, "result": {"item": "minecraft:jungle_slab", "count": 8}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:iron_ore"}, "result": "minecraft:jungle_slab", "experience": 0.7, "cookingtime": 200}

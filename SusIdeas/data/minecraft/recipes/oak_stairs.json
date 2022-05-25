@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_diorite"}, "result": "minecraft:oak_stairs", "count": 2}
+{"type": "minecraft:crafting_shaped", "group": "boat", "pattern": ["# #", "###"], "key": {"#": {"item": "minecraft:birch_planks"}}, "result": {"item": "minecraft:oak_stairs", "count": 4}}

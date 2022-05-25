@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_fence_gate", "pattern": ["#W#", "#W#"], "key": {"#": {"item": "minecraft:stick"}, "W": {"item": "minecraft:dark_oak_planks"}}, "result": {"item": "minecraft:black_dye"}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_slab", "pattern": ["###"], "key": {"#": {"item": "minecraft:birch_planks"}}, "result": {"item": "minecraft:black_dye", "count": 6}}
