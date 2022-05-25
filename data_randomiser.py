@@ -1,12 +1,12 @@
-import os#default
-import shutil#default
-import random#default
-import sys#default
-import json#default
-import argparse#default
-import collections#default
-import collections.abc#default
-import logging#default
+import os
+import shutil
+import random
+import sys
+import json
+import argparse
+import collections
+import collections.abc
+import logging
 
 def man():
     parser = argparse.ArgumentParser(description='Randomise the data of a Minecraft datapack folder.')
