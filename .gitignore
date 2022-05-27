@@ -1,8 +1,0 @@
-shuffle.zip
-random_data.zip
-shuffle/
-build/
-dist/
-__pycache__/
-*.spec
-.idea/
