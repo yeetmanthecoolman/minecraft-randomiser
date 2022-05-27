@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:mossy_cobblestone"}}, "result": {"item": "minecraft:lectern", "count": 4}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:mossy_stone_bricks"}, "result": "minecraft:lectern", "count": 1}

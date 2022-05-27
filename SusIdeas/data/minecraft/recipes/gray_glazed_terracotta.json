@@ -1,1 +1,1 @@
-{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:mutton"}, "result": "minecraft:gray_glazed_terracotta", "experience": 0.35, "cookingtime": 100}
+{"type": "minecraft:crafting_shaped", "pattern": ["I-I", "# #"], "key": {"I": {"item": "minecraft:stick"}, "-": {"item": "minecraft:stone_slab"}, "#": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:gray_glazed_terracotta"}}

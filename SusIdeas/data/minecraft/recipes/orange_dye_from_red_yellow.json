@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:dried_kelp_block"}], "result": {"item": "minecraft:orange_dye", "count": 9}}
+{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:redstone_ore"}, "result": "minecraft:orange_dye", "experience": 0.7, "cookingtime": 100}

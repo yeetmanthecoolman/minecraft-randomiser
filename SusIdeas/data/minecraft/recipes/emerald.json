@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:emerald", "count": 2}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:granite"}, "result": "minecraft:emerald", "count": 1}

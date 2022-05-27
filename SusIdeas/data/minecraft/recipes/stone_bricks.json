@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:purpur_block"}, "result": "minecraft:stone_bricks", "count": 2}
+{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:yellow_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:stone_bricks", "count": 8}}

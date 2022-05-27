@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "# #", "#R#"], "key": {"R": {"item": "minecraft:redstone"}, "#": {"item": "minecraft:cobblestone"}}, "result": {"item": "minecraft:diamond_pickaxe"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:porkchop"}, "result": "minecraft:diamond_pickaxe", "experience": 0.35, "cookingtime": 200}

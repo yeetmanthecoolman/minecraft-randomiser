@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:green_stained_glass"}}, "result": {"item": "minecraft:melon", "count": 16}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_slab", "pattern": ["###"], "key": {"#": {"item": "minecraft:birch_planks"}}, "result": {"item": "minecraft:melon", "count": 6}}

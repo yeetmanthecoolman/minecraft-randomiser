@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"Data file randomiser by lexikiq / Seed 2220273071353544894","color":"green"}]
+tellraw @a ["",{"text":"Data file randomiser by lexikiq / Seed 8451973951965295426","color":"green"}]

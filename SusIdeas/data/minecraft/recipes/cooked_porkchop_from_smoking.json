@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["X", "X", "#"], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:gold_ingot"}}, "result": {"item": "minecraft:cooked_porkchop"}}
+{"type": "minecraft:crafting_shapeless", "group": "magenta_dye", "ingredients": [{"item": "minecraft:blue_dye"}, {"item": "minecraft:red_dye"}, {"item": "minecraft:pink_dye"}], "result": {"item": "minecraft:cooked_porkchop", "count": 3}}

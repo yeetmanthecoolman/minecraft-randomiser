@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "banner", "pattern": ["###", "###", " | "], "key": {"#": {"item": "minecraft:brown_wool"}, "|": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:smoker"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["#", "#"], "key": {"#": {"item": "minecraft:purpur_slab"}}, "result": {"item": "minecraft:smoker"}}

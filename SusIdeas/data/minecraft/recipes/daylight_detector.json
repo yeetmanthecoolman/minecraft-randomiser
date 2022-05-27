@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:black_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:daylight_detector", "count": 2}}
+{"type": "minecraft:crafting_shaped", "pattern": [" # ", "#X#", " # "], "key": {"#": {"item": "minecraft:glowstone_dust"}, "X": {"item": "minecraft:arrow"}}, "result": {"item": "minecraft:daylight_detector", "count": 2}}

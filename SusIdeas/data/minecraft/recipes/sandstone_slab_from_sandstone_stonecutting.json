@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["NN", "NN"], "key": {"N": {"item": "minecraft:nether_brick"}}, "result": {"item": "minecraft:sandstone_slab"}}
+{"type": "minecraft:crafting_shapeless", "group": "planks", "ingredients": [{"tag": "minecraft:birch_logs"}], "result": {"item": "minecraft:sandstone_slab", "count": 4}}

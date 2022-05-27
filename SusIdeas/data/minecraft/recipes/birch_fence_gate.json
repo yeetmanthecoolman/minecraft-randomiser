@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:orange_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:birch_fence_gate", "count": 8}}
+{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:coal_ore"}, "result": "minecraft:birch_fence_gate", "experience": 0.1, "cookingtime": 100}

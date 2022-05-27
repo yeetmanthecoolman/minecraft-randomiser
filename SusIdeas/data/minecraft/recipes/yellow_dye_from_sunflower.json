@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:gold_ingot"}], "result": {"item": "minecraft:yellow_dye", "count": 9}}
+{"type": "minecraft:crafting_shapeless", "group": "pink_dye", "ingredients": [{"item": "minecraft:red_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:yellow_dye", "count": 2}}

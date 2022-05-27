@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:chest"}, {"item": "minecraft:tripwire_hook"}], "result": {"item": "minecraft:lever"}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:redstone_block"}], "result": {"item": "minecraft:lever", "count": 9}}

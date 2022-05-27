@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:green_dye"}], "result": {"item": "minecraft:fletching_table"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:stone_bricks"}, "result": "minecraft:fletching_table", "experience": 0.1, "cookingtime": 200}

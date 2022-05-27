@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:red_dye"}], "result": {"item": "minecraft:purple_bed"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:sand"}}, "result": {"item": "minecraft:purple_bed"}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["S", "P"], "key": {"P": {"item": "minecraft:piston"}, "S": {"item": "minecraft:slime_ball"}}, "result": {"item": "minecraft:polished_diorite_slab"}}
+{"type": "minecraft:crafting_shapeless", "group": "wooden_button", "ingredients": [{"item": "minecraft:birch_planks"}], "result": {"item": "minecraft:polished_diorite_slab"}}

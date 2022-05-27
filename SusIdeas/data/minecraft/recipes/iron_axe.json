@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["A", "B"], "key": {"A": {"item": "minecraft:hopper"}, "B": {"item": "minecraft:minecart"}}, "result": {"item": "minecraft:iron_axe"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["X", "#"], "key": {"#": {"item": "minecraft:stick"}, "X": [{"item": "minecraft:coal"}, {"item": "minecraft:charcoal"}]}, "result": {"item": "minecraft:iron_axe", "count": 4}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:black_dye"}], "result": {"item": "minecraft:crossbow"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:cyan_terracotta"}, "result": "minecraft:crossbow", "experience": 0.1, "cookingtime": 200}

@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:cactus"}, "result": "minecraft:brick_stairs", "experience": 1.0, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:end_stone_bricks"}}, "result": {"item": "minecraft:brick_stairs", "count": 6}}

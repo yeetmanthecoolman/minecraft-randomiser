@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:iron_ingot"}, {"item": "minecraft:flint"}], "result": {"item": "minecraft:loom"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:red_nether_bricks"}}, "result": {"item": "minecraft:loom", "count": 6}}

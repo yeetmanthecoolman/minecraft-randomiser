@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "###", " X "], "key": {"#": {"item": "minecraft:acacia_planks"}, "X": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:redstone", "count": 3}}
+{"type": "minecraft:crafting_shaped", "group": "boat", "pattern": ["# #", "###"], "key": {"#": {"item": "minecraft:oak_planks"}}, "result": {"item": "minecraft:redstone", "count": 9}}

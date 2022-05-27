@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:gray_stained_glass"}}, "result": {"item": "minecraft:diamond_block", "count": 16}}
+{"type": "minecraft:crafting_shaped", "group": "wooden_stairs", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:jungle_planks"}}, "result": {"item": "minecraft:diamond_block", "count": 4}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:white_carpet"}, "$": {"item": "minecraft:cyan_dye"}}, "result": {"item": "minecraft:magenta_dye", "count": 8}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:iron_ingot"}], "result": {"item": "minecraft:magenta_dye", "count": 9}}

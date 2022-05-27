@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:bricks"}, "result": "minecraft:lantern", "count": 1}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:stone"}, "result": "minecraft:lantern", "count": 1}

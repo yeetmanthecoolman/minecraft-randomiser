@@ -1,1 +1,1 @@
-{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:coal_ore"}, "result": "minecraft:emerald", "experience": 0.1, "cookingtime": 100}
+{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:gray_stained_glass"}}, "result": {"item": "minecraft:emerald", "count": 16}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1.0, "type": "minecraft:uniform"}}, {"function": "minecraft:explosion_decay"}], "name": "minecraft:chorus_fruit"}]}]}
+{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "conditions": [{"condition": "minecraft:block_state_property", "block": "minecraft:oak_door", "properties": {"half": "lower"}}], "name": "minecraft:oak_door"}]}]}

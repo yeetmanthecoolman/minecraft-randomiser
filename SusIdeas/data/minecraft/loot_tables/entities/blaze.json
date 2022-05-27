@@ -1,1 +1,1 @@
-{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:flower_pot"}]}, {"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:cactus"}]}]}
+{"type": "minecraft:entity", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:red_wool"}]}, {"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "minecraft:entities/sheep"}]}]}

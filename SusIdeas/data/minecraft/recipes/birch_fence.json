@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["GGG", "QQQ", "WWW"], "key": {"Q": {"item": "minecraft:quartz"}, "G": {"item": "minecraft:glass"}, "W": {"tag": "minecraft:wooden_slabs"}}, "result": {"item": "minecraft:birch_fence", "count": 3}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:quartz"}}, "result": {"item": "minecraft:birch_fence", "count": 3}}

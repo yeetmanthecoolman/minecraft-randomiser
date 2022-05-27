@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:end_stone_bricks"}, "result": "minecraft:green_bed", "count": 1}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:red_sandstone"}, "result": "minecraft:green_bed", "count": 1}

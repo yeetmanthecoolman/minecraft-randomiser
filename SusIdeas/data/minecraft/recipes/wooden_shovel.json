@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "bark", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:dark_oak_log"}}, "result": {"item": "minecraft:wooden_shovel", "count": 3}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:bricks"}, "result": "minecraft:wooden_shovel", "count": 2}

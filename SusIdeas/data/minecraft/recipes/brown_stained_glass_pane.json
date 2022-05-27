@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:prismarine"}, "result": "minecraft:brown_stained_glass_pane", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:magma_cream"}}, "result": {"item": "minecraft:brown_stained_glass_pane", "count": 16}}

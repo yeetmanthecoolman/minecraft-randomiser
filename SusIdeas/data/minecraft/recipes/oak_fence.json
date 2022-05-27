@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:oak_fence", "count": 1}
+{"type": "minecraft:crafting_shapeless", "group": "wool", "ingredients": [{"item": "minecraft:purple_dye"}, {"item": "minecraft:white_wool"}], "result": {"item": "minecraft:oak_fence", "count": 3}}

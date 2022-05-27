@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_diorite"}, "result": "minecraft:spruce_planks", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["I~I", "I I", "I I"], "key": {"~": {"item": "minecraft:string"}, "I": {"item": "minecraft:bamboo"}}, "result": {"item": "minecraft:spruce_planks", "count": 6}}

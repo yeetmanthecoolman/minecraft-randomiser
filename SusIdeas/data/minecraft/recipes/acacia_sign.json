@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:lime_dye"}], "result": {"item": "minecraft:acacia_sign", "count": 3}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:andesite"}}, "result": {"item": "minecraft:acacia_sign", "count": 6}}

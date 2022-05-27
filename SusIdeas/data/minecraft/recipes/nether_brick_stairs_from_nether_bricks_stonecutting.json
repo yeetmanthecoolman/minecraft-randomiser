@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:mossy_cobblestone"}}, "result": {"item": "minecraft:nether_brick_stairs", "count": 6}}
+{"type": "minecraft:crafting_shapeless", "group": "blue_dye", "ingredients": [{"item": "minecraft:cornflower"}], "result": {"item": "minecraft:nether_brick_stairs"}}

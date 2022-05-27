@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:glass_pane"}, "$": {"item": "minecraft:gray_dye"}}, "result": {"item": "minecraft:dark_prismarine_slab", "count": 8}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:red_sandstone"}, "result": "minecraft:dark_prismarine_slab", "count": 2}

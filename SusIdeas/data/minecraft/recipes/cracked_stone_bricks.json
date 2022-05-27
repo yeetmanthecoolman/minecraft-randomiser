@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["XXX", " # ", " # "], "key": {"#": {"item": "minecraft:stick"}, "X": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:cracked_stone_bricks"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:mutton"}, "result": "minecraft:cracked_stone_bricks", "experience": 0.35, "cookingtime": 200}

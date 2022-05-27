@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:stone"}}, "result": {"item": "minecraft:pink_banner", "count": 4}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:stone"}, "result": "minecraft:pink_banner", "count": 2}

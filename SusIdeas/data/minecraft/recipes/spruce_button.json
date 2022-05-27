@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_stairs", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:dark_oak_planks"}}, "result": {"item": "minecraft:spruce_button", "count": 4}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:quartz_block"}, "result": "minecraft:spruce_button", "count": 2}

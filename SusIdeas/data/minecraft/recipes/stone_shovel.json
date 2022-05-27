@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:sugar_cane"}}, "result": {"item": "minecraft:stone_shovel", "count": 3}}
+{"type": "minecraft:crafting_shaped", "group": "bark", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:spruce_log"}}, "result": {"item": "minecraft:stone_shovel", "count": 3}}

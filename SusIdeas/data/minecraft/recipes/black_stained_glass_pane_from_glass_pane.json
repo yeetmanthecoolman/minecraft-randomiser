@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:purple_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:black_stained_glass_pane", "count": 8}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:black_stained_glass_pane", "count": 1}

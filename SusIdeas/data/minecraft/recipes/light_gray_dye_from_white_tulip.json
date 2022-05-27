@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "carpet", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:white_carpet"}, "$": {"item": "minecraft:orange_dye"}}, "result": {"item": "minecraft:light_gray_dye", "count": 8}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:chorus_fruit"}, "result": "minecraft:light_gray_dye", "experience": 0.1, "cookingtime": 200}

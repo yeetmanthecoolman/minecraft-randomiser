@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:hay_block"}], "result": {"item": "minecraft:polished_andesite_stairs", "count": 9}}
+{"type": "minecraft:crafting_shaped", "pattern": ["III", "IXI", "###"], "key": {"#": {"item": "minecraft:smooth_stone"}, "X": {"item": "minecraft:furnace"}, "I": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:polished_andesite_stairs", "count": 4}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["X", "#"], "key": {"#": {"item": "minecraft:cobblestone"}, "X": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:diamond_hoe"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["FF", "FF"], "key": {"F": {"item": "minecraft:popped_chorus_fruit"}}, "result": {"item": "minecraft:diamond_hoe", "count": 4}}

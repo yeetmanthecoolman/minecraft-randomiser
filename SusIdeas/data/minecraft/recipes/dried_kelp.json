@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "light_gray_dye", "ingredients": [{"item": "minecraft:black_dye"}, {"item": "minecraft:white_dye"}, {"item": "minecraft:white_dye"}], "result": {"item": "minecraft:dried_kelp", "count": 3}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:diorite"}, "result": "minecraft:dried_kelp", "count": 2}

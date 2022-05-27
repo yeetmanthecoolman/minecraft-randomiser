@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["X X", "XXX", "XXX"], "key": {"X": {"item": "minecraft:leather"}}, "result": {"item": "minecraft:spruce_slab", "count": 6}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:rabbit"}, "result": "minecraft:spruce_slab", "experience": 0.35, "cookingtime": 200}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:redstone_block"}], "result": {"item": "minecraft:chest_minecart", "count": 9}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:chest_minecart", "experience": 0.35, "cookingtime": 200}

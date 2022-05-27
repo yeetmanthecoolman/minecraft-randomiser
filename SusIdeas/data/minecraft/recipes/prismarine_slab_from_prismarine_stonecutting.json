@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:chicken"}, "result": "minecraft:prismarine_slab", "experience": 0.35, "cookingtime": 200}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:chest"}, {"item": "minecraft:tripwire_hook"}], "result": {"item": "minecraft:prismarine_slab"}}

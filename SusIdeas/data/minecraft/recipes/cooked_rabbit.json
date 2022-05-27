@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:pumpkin"}, {"item": "minecraft:sugar"}, {"item": "minecraft:egg"}], "result": {"item": "minecraft:cooked_rabbit"}}
+{"type": "minecraft:crafting_shapeless", "group": "magenta_dye", "ingredients": [{"item": "minecraft:allium"}], "result": {"item": "minecraft:cooked_rabbit"}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["# #", " # "], "key": {"#": {"item": "minecraft:glass"}}, "result": {"item": "minecraft:magenta_glazed_terracotta", "count": 3}}
+{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:light_blue_dye"}], "result": {"item": "minecraft:magenta_glazed_terracotta"}}

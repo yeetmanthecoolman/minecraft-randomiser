@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:paper"}, {"item": "minecraft:wither_skeleton_skull"}], "result": {"item": "minecraft:magma_block"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:sandstone"}}, "result": {"item": "minecraft:magma_block", "count": 4}}

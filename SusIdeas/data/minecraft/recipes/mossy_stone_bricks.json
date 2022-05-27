@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "wooden_button", "ingredients": [{"item": "minecraft:spruce_planks"}], "result": {"item": "minecraft:mossy_stone_bricks"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["~~ ", "~O ", "  ~"], "key": {"~": {"item": "minecraft:string"}, "O": {"item": "minecraft:slime_ball"}}, "result": {"item": "minecraft:mossy_stone_bricks", "count": 2}}

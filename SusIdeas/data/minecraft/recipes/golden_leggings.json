@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:polished_granite"}}, "result": {"item": "minecraft:golden_leggings", "count": 6}}
+{"type": "minecraft:crafting_shaped", "pattern": ["#  ", "## ", "###"], "key": {"#": {"item": "minecraft:diorite"}}, "result": {"item": "minecraft:golden_leggings", "count": 4}}
