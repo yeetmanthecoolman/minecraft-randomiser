@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "light_gray_dye", "ingredients": [{"item": "minecraft:oxeye_daisy"}], "result": {"item": "minecraft:comparator"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:string"}}, "result": {"item": "minecraft:comparator"}}

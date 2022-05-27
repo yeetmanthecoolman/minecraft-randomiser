@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "concrete_powder", "ingredients": [{"item": "minecraft:pink_dye"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:sand"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}, {"item": "minecraft:gravel"}], "result": {"item": "minecraft:acacia_stairs", "count": 8}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:purple_terracotta"}, "result": "minecraft:acacia_stairs", "experience": 0.1, "cookingtime": 200}

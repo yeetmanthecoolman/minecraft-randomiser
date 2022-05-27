@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:nautilus_shell"}, "X": {"item": "minecraft:heart_of_the_sea"}}, "result": {"item": "minecraft:andesite_stairs"}}
+{"type": "minecraft:crafting_shapeless", "group": "wooden_button", "ingredients": [{"item": "minecraft:acacia_planks"}], "result": {"item": "minecraft:andesite_stairs"}}

@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:bricks"}, "result": "minecraft:hay_block", "count": 1}
+{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:mutton"}, "result": "minecraft:hay_block", "experience": 0.35, "cookingtime": 100}

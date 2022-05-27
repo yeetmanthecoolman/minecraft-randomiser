@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:snow_block"}}, "result": {"item": "minecraft:yellow_stained_glass_pane", "count": 6}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:yellow_stained_glass_pane", "experience": 0.35, "cookingtime": 200}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_fence", "pattern": ["W#W", "W#W"], "key": {"#": {"item": "minecraft:stick"}, "W": {"item": "minecraft:acacia_planks"}}, "result": {"item": "minecraft:sea_lantern", "count": 3}}
+{"type": "minecraft:smelting", "ingredient": {"tag": "minecraft:logs"}, "result": "minecraft:sea_lantern", "experience": 0.15, "cookingtime": 200}

@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:glass"}, "X": {"item": "minecraft:light_gray_dye"}}, "result": {"item": "minecraft:prismarine_wall", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["III", "IXI", "###"], "key": {"#": {"item": "minecraft:smooth_stone"}, "X": {"item": "minecraft:furnace"}, "I": {"item": "minecraft:iron_ingot"}}, "result": {"item": "minecraft:prismarine_wall", "count": 6}}

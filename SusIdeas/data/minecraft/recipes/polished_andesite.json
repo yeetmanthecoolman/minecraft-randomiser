@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:smooth_sandstone"}, "result": "minecraft:polished_andesite", "count": 2}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:clay"}, "result": "minecraft:polished_andesite", "experience": 0.35, "cookingtime": 200}

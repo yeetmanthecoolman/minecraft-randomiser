@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "dyed_bed", "ingredients": [{"item": "minecraft:white_bed"}, {"item": "minecraft:brown_dye"}], "result": {"item": "minecraft:light_gray_dye", "count": 2}}
+{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:light_gray_dye", "experience": 0.35, "cookingtime": 600}

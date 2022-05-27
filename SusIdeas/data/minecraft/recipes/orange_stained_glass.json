@@ -1,1 +1,1 @@
-{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:kelp"}, "result": "minecraft:orange_stained_glass", "experience": 0.1, "cookingtime": 600}
+{"type": "minecraft:blasting", "ingredient": {"item": "minecraft:gold_ore"}, "result": "minecraft:orange_stained_glass", "experience": 1.0, "cookingtime": 100}

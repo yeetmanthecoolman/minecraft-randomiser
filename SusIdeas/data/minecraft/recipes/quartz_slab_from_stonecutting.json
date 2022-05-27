@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": [" S ", "SCS", "LLL"], "key": {"L": {"tag": "minecraft:logs"}, "S": {"item": "minecraft:stick"}, "C": {"tag": "minecraft:coals"}}, "result": {"item": "minecraft:quartz_slab"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:cut_red_sandstone"}, "result": "minecraft:quartz_slab", "count": 2}

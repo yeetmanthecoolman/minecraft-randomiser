@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:end_stone_bricks"}}, "result": {"item": "minecraft:brick_stairs", "count": 6}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:sandstone"}, "result": "minecraft:brick_stairs", "experience": 0.1, "cookingtime": 200}

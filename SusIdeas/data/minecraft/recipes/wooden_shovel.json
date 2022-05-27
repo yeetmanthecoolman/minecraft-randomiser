@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:bricks"}, "result": "minecraft:wooden_shovel", "count": 2}
+{"type": "minecraft:crafting_shapeless", "group": "orange_dye", "ingredients": [{"item": "minecraft:orange_tulip"}], "result": {"item": "minecraft:wooden_shovel"}}

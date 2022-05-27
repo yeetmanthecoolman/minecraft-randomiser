@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:bowl"}, {"item": "minecraft:beetroot"}, {"item": "minecraft:beetroot"}, {"item": "minecraft:beetroot"}, {"item": "minecraft:beetroot"}, {"item": "minecraft:beetroot"}, {"item": "minecraft:beetroot"}], "result": {"item": "minecraft:dried_kelp_block"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["GGG", "GSG", "OOO"], "key": {"S": {"item": "minecraft:nether_star"}, "G": {"item": "minecraft:glass"}, "O": {"item": "minecraft:obsidian"}}, "result": {"item": "minecraft:dried_kelp_block"}}

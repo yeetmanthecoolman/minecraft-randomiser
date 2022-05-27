@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:red_nether_bricks"}}, "result": {"item": "minecraft:loom", "count": 6}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:red_nether_bricks"}, "result": "minecraft:loom", "count": 1}

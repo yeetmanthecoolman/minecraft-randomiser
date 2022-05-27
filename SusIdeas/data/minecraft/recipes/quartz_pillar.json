@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#", "#"], "key": {"#": {"item": "minecraft:red_sandstone_slab"}}, "result": {"item": "minecraft:quartz_pillar", "count": 2}}
+{"type": "minecraft:crafting_shaped", "pattern": ["I-I", "# #"], "key": {"I": {"item": "minecraft:stick"}, "-": {"item": "minecraft:stone_slab"}, "#": {"tag": "minecraft:planks"}}, "result": {"item": "minecraft:quartz_pillar", "count": 2}}

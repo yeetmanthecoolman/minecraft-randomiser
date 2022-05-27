@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:prismarine"}}, "result": {"item": "minecraft:pink_glazed_terracotta", "count": 6}}
+{"type": "minecraft:smoking", "ingredient": {"item": "minecraft:potato"}, "result": "minecraft:pink_glazed_terracotta", "experience": 0.35, "cookingtime": 100}

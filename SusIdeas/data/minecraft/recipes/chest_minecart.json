@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:chest_minecart", "experience": 0.35, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:glowstone_dust"}}, "result": {"item": "minecraft:chest_minecart"}}

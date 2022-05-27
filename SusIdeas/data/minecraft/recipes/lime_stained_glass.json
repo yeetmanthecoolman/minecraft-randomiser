@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#X#"], "key": {"#": {"item": "minecraft:wheat"}, "X": {"item": "minecraft:cocoa_beans"}}, "result": {"item": "minecraft:lime_stained_glass", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["X", "#"], "key": {"#": {"item": "minecraft:stick"}, "X": [{"item": "minecraft:coal"}, {"item": "minecraft:charcoal"}]}, "result": {"item": "minecraft:lime_stained_glass", "count": 4}}

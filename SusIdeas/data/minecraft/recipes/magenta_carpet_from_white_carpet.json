@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#&#", "~$~", " # "], "key": {"~": {"item": "minecraft:string"}, "#": {"item": "minecraft:stick"}, "&": {"item": "minecraft:iron_ingot"}, "$": {"item": "minecraft:tripwire_hook"}}, "result": {"item": "minecraft:magenta_carpet", "count": 8}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:mossy_cobblestone"}, "result": "minecraft:magenta_carpet", "count": 2}

@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:nether_quartz_ore"}, "result": "minecraft:ladder", "experience": 0.2, "cookingtime": 200}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:ender_pearl"}, {"item": "minecraft:blaze_powder"}], "result": {"item": "minecraft:ladder", "count": 3}}

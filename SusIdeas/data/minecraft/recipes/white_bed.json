@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:lapis_block"}], "result": {"item": "minecraft:white_bed", "count": 9}}
+{"type": "minecraft:crafting_shapeless", "group": "wooden_button", "ingredients": [{"item": "minecraft:jungle_planks"}], "result": {"item": "minecraft:white_bed"}}

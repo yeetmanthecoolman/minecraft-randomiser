@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "stained_glass_pane", "pattern": ["###", "#$#", "###"], "key": {"#": {"item": "minecraft:glass_pane"}, "$": {"item": "minecraft:brown_dye"}}, "result": {"item": "minecraft:purple_carpet", "count": 8}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_granite"}, "result": "minecraft:purple_carpet", "count": 2}

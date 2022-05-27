@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:nether_bricks"}}, "result": {"item": "minecraft:end_stone_brick_stairs", "count": 6}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:purpur_block"}, "result": "minecraft:end_stone_brick_stairs", "count": 2}

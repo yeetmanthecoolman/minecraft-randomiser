@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["#", "#"], "key": {"#": {"item": "minecraft:stone_brick_slab"}}, "result": {"item": "minecraft:granite_slab"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:cod"}, "result": "minecraft:granite_slab", "experience": 0.35, "cookingtime": 200}

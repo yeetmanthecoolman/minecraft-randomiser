@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:chicken"}, "result": "minecraft:gray_stained_glass_pane", "experience": 0.35, "cookingtime": 200}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:stone_bricks"}, {"item": "minecraft:vine"}], "result": {"item": "minecraft:gray_stained_glass_pane", "count": 8}}

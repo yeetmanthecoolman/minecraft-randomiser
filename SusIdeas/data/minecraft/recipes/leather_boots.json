@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "###"], "key": {"#": {"item": "minecraft:red_sandstone"}}, "result": {"item": "minecraft:leather_boots", "count": 6}}
+{"type": "minecraft:crafting_shapeless", "ingredients": [{"item": "minecraft:emerald_block"}], "result": {"item": "minecraft:leather_boots", "count": 9}}

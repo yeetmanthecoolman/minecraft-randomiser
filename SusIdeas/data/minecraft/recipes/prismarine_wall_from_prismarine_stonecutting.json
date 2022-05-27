@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "black_dye", "ingredients": [{"item": "minecraft:ink_sac"}], "result": {"item": "minecraft:prismarine_wall"}}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:polished_diorite"}, "result": "minecraft:prismarine_wall", "count": 2}

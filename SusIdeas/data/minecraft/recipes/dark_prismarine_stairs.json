@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "banner", "pattern": ["###", "###", " | "], "key": {"#": {"item": "minecraft:red_wool"}, "|": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:dark_prismarine_stairs", "count": 4}}
+{"type": "minecraft:crafting_shaped", "pattern": ["XXX", "X X", "X X"], "key": {"X": {"item": "minecraft:diamond"}}, "result": {"item": "minecraft:dark_prismarine_stairs", "count": 4}}

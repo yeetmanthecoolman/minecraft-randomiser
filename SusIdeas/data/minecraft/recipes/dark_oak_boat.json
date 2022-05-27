@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:brown_terracotta"}, "result": "minecraft:dark_oak_boat", "experience": 0.1, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["X X", "X X"], "key": {"X": {"item": "minecraft:gold_ingot"}}, "result": {"item": "minecraft:dark_oak_boat"}}

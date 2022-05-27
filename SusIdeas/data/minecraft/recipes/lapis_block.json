@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["A", "B"], "key": {"A": {"item": "minecraft:tnt"}, "B": {"item": "minecraft:minecart"}}, "result": {"item": "minecraft:lapis_block"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#X#", "###"], "key": {"#": {"item": "minecraft:gold_nugget"}, "X": {"item": "minecraft:melon_slice"}}, "result": {"item": "minecraft:lapis_block"}}

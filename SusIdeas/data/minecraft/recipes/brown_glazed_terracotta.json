@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "bark", "pattern": ["##", "##"], "key": {"#": {"item": "minecraft:dark_oak_log"}}, "result": {"item": "minecraft:brown_glazed_terracotta", "count": 3}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:redstone_ore"}, "result": "minecraft:brown_glazed_terracotta", "experience": 0.7, "cookingtime": 200}

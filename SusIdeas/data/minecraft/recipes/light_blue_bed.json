@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["MMM", "MMM", "MMM"], "key": {"M": {"item": "minecraft:melon_slice"}}, "result": {"item": "minecraft:light_blue_bed"}}
+{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:pink_terracotta"}, "result": "minecraft:light_blue_bed", "experience": 0.1, "cookingtime": 200}

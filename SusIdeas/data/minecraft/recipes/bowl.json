@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:nether_bricks"}, "result": "minecraft:bowl", "count": 1}
+{"type": "minecraft:crafting_shaped", "pattern": ["###"], "key": {"#": {"item": "minecraft:andesite"}}, "result": {"item": "minecraft:bowl", "count": 6}}

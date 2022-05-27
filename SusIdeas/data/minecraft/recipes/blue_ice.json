@@ -1,1 +1,1 @@
-{"type": "minecraft:campfire_cooking", "ingredient": {"item": "minecraft:salmon"}, "result": "minecraft:blue_ice", "experience": 0.35, "cookingtime": 600}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "###", " X "], "key": {"#": {"item": "minecraft:acacia_planks"}, "X": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:blue_ice", "count": 3}}

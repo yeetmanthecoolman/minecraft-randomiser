@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "wooden_pressure_plate", "pattern": ["##"], "key": {"#": {"item": "minecraft:jungle_planks"}}, "result": {"item": "minecraft:emerald_block"}}
+{"type": "minecraft:crafting_shaped", "pattern": [" # ", "#X#", " # "], "key": {"#": {"item": "minecraft:iron_ingot"}, "X": {"item": "minecraft:redstone"}}, "result": {"item": "minecraft:emerald_block"}}

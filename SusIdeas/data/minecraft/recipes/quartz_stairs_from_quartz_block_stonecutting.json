@@ -1,1 +1,1 @@
-{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:mossy_stone_bricks"}, "result": "minecraft:quartz_stairs", "count": 2}
+{"type": "minecraft:stonecutting", "ingredient": {"item": "minecraft:sandstone"}, "result": "minecraft:quartz_stairs", "count": 2}

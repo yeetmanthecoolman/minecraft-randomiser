@@ -1,1 +1,1 @@
-{"type": "minecraft:smelting", "ingredient": {"item": "minecraft:diamond_ore"}, "result": "minecraft:shulker_box", "experience": 1.0, "cookingtime": 200}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "###", "###"], "key": {"#": {"item": "minecraft:slime_ball"}}, "result": {"item": "minecraft:shulker_box"}}

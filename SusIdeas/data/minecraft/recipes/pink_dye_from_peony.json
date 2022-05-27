@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shapeless", "group": "iron_ingot", "ingredients": [{"item": "minecraft:iron_block"}], "result": {"item": "minecraft:pink_dye", "count": 9}}
+{"type": "minecraft:crafting_shaped", "pattern": ["# #", "###", "# #"], "key": {"#": {"item": "minecraft:stick"}}, "result": {"item": "minecraft:pink_dye", "count": 3}}

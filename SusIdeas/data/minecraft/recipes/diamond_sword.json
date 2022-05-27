@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "group": "gold_ingot", "pattern": ["###", "###", "###"], "key": {"#": {"item": "minecraft:gold_nugget"}}, "result": {"item": "minecraft:diamond_sword"}}
+{"type": "minecraft:crafting_shaped", "pattern": ["#X#", "III"], "key": {"#": {"item": "minecraft:redstone_torch"}, "X": {"item": "minecraft:redstone"}, "I": {"item": "minecraft:stone"}}, "result": {"item": "minecraft:diamond_sword"}}
